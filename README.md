@@ -25,7 +25,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/listener-He/github-profilinator)  
   
@@ -39,9 +39,7 @@
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="70%">
-
-</td></tr></table>  
+</td>
 
 <br/>  
 
