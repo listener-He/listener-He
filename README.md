@@ -39,12 +39,7 @@
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</td><td valign="top" width="70%">
 
 </td></tr></table>  
 
