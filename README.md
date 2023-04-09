@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [silk-v3-decoder 一款微信音频转码的工具](https://notion.hehouhui.cn//archives/41.html)
-- [wkhtmltopdf详细使用](https://notion.hehouhui.cn//archives/39.html)
-- [wkhtmltopdf 安装](https://notion.hehouhui.cn//archives/40.html)
-- [API网关之Gateway](https://notion.hehouhui.cn//archives/46.html)
-- [响应式开发之webFlux &amp; Reactor](https://notion.hehouhui.cn//archives/21.html)
+- [silk-v3-decoder 一款微信音频转码的工具](https://tangly1024.com/archives/41)
+- [wkhtmltopdf详细使用](https://tangly1024.com/archives/39)
+- [wkhtmltopdf 安装](https://tangly1024.com/archives/40)
+- [API网关之Gateway](https://tangly1024.com/archives/46)
+- [响应式开发之webFlux &amp; Reactor](https://tangly1024.com/archives/21)
 <!-- BLOG-POST-LIST:END -->
 
