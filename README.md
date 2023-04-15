@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [silk-v3-decoder 一款微信音频转码的工具](https://tangly1024.com/archives/41)
-- [wkhtmltopdf详细使用](https://tangly1024.com/archives/39)
-- [wkhtmltopdf 安装](https://tangly1024.com/archives/40)
+- [Redis 入手知识点](https://tangly1024.com/archives/redis-01)
 - [API网关之Gateway](https://tangly1024.com/archives/46)
 - [响应式开发之webFlux &amp; Reactor](https://tangly1024.com/archives/21)
+- [Java基础-线程&amp;并发](https://tangly1024.com/archives/22)
+- [Java基础-class](https://tangly1024.com/archives/43)
 <!-- BLOG-POST-LIST:END -->
 
