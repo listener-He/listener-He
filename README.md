@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [Redis 入手知识点](https://tangly1024.com/archives/redis-01.html)
-- [API网关之Gateway](https://tangly1024.com/archives/46.html)
-- [响应式开发之webFlux &amp; Reactor](https://tangly1024.com/archives/21.html)
-- [Java基础-线程&amp;并发](https://tangly1024.com/archives/22.html)
-- [Java基础-class](https://tangly1024.com/archives/43.html)
+- [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01.html)
+- [API网关之Gateway](https://blog.hehouhui.cn/archives/46.html)
+- [响应式开发之webFlux &amp; Reactor](https://blog.hehouhui.cn/archives/21.html)
+- [Java基础-线程&amp;并发](https://blog.hehouhui.cn/archives/22.html)
+- [Java基础-class](https://blog.hehouhui.cn/archives/43.html)
 <!-- BLOG-POST-LIST:END -->
 
