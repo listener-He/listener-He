@@ -120,8 +120,8 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [物联网发展及前景如何？物联网开发有哪些板块？java 如何驱动万物互联？](https://blog.hehouhui.cn/archives/iot-prospect-for-java)
 - [Notion AI平替 Writely 基于chatGPT免费实现的写作神器](https://blog.hehouhui.cn/archives/notion-ai-writely)
-- [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01)
 - [spring cache](https://blog.hehouhui.cn/archives/18)
 - [Java基础-JVM](https://blog.hehouhui.cn/archives/42)
 - [Java基础-集合](https://blog.hehouhui.cn/archives/44)
