@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01.html)
-- [API网关之Gateway](https://blog.hehouhui.cn/archives/46.html)
-- [响应式开发之webFlux &amp; Reactor](https://blog.hehouhui.cn/archives/21.html)
-- [Java基础-线程&amp;并发](https://blog.hehouhui.cn/archives/22.html)
-- [Java基础-class](https://blog.hehouhui.cn/archives/43.html)
+- [Notion AI平替 Writely 基于chatGPT免费实现的写作神器](https://blog.hehouhui.cn/archives/notion-ai-writely)
+- [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01)
+- [spring cache](https://blog.hehouhui.cn/archives/18)
+- [Java基础-JVM](https://blog.hehouhui.cn/archives/42)
+- [Java基础-集合](https://blog.hehouhui.cn/archives/44)
 <!-- BLOG-POST-LIST:END -->
 
