@@ -123,7 +123,7 @@
 - [使用 Keycloak 的 API 登录和 JWT 令牌生成](https://blog.hehouhui.cn/archives/api-login-and-jwt-token-generation-using-keycloak)
 - [使用 Keycloak REST API 进行身份验证和授权](https://blog.hehouhui.cn/archives/authentication-and-authorization-using-the-keycloak-rest-api)
 - [主动阅读：成为更好的阅读者](https://blog.hehouhui.cn/archives/active-reading-becoming-better-reader)
-- [Notion AI平替 Writely 基于chatGPT免费实现的写作神器](https://blog.hehouhui.cn/archives/notion-ai-writely)
 - [你有什么值得分享的高效学习方法？](https://blog.hehouhui.cn/archives/efficient-learning-methods-pq4r)
+- [wkhtmltopdf 安装](https://blog.hehouhui.cn/archives/40)
 <!-- BLOG-POST-LIST:END -->
 
