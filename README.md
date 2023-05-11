@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [使用 Keycloak 的 API 登录和 JWT 令牌生成](https://blog.hehouhui.cn/archives/api-login-and-jwt-token-generation-using-keycloak)
-- [使用 Keycloak REST API 进行身份验证和授权](https://blog.hehouhui.cn/archives/authentication-and-authorization-using-the-keycloak-rest-api)
-- [主动阅读：成为更好的阅读者](https://blog.hehouhui.cn/archives/active-reading-becoming-better-reader)
-- [你有什么值得分享的高效学习方法？](https://blog.hehouhui.cn/archives/efficient-learning-methods-pq4r)
-- [wkhtmltopdf 安装](https://blog.hehouhui.cn/archives/40)
+- [物联网发展及前景如何？物联网开发有哪些板块？java 如何驱动万物互联？](https://blog.hehouhui.cn/archives/iot-prospect-for-java)
+- [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01)
+- [RedisOperations scan 用法](https://blog.hehouhui.cn/archives/9)
+- [spring cache](https://blog.hehouhui.cn/archives/18)
+- [Java基础-JVM](https://blog.hehouhui.cn/archives/42)
 <!-- BLOG-POST-LIST:END -->
 
