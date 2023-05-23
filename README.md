@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Hutool 5.8.8  BeanUtil.copyProperties 致命异常](https://blog.hehouhui.cn/archives/hutool-beanutil-error)
 - [物联网发展及前景如何？物联网开发有哪些板块？java 如何驱动万物互联？](https://blog.hehouhui.cn/archives/iot-prospect-for-java)
 - [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01)
-- [RedisOperations scan 用法](https://blog.hehouhui.cn/archives/9)
-- [spring cache](https://blog.hehouhui.cn/archives/18)
-- [Java基础-JVM](https://blog.hehouhui.cn/archives/42)
+- [silk-v3-decoder 一款微信音频转码的工具](https://blog.hehouhui.cn/archives/41)
+- [API网关之Gateway](https://blog.hehouhui.cn/archives/46)
 <!-- BLOG-POST-LIST:END -->
 
