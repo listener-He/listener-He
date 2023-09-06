@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [HttpClient? RestTemplate？WebClient? 不~是 RestClient](https://blog.hehouhui.cn/archives/spring-restclient-2023)
 - [上海咖啡文化周之薅瑞幸羊毛](https://blog.hehouhui.cn/archives/lkcoffee-shanghai-coffee-activities-20230602)
 - [Hutool 5.8.8  BeanUtil.copyProperties 致命异常](https://blog.hehouhui.cn/archives/hutool-beanutil-error)
 - [物联网发展及前景如何？物联网开发有哪些板块？java 如何驱动万物互联？](https://blog.hehouhui.cn/archives/iot-prospect-for-java)
 - [Redis 入手知识点](https://blog.hehouhui.cn/archives/redis-01)
-- [silk-v3-decoder 一款微信音频转码的工具](https://blog.hehouhui.cn/archives/41)
 <!-- BLOG-POST-LIST:END -->
 
