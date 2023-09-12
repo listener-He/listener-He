@@ -120,10 +120,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Redis 热key是什么问题，如何导致的？有什么解决方案？](https://blog.hehouhui.cn/archives/redis-key-202309)
 - [HttpClient? RestTemplate？WebClient? 不~是 RestClient](https://blog.hehouhui.cn/archives/spring-restclient-2023)
 - [上海咖啡文化周之薅瑞幸羊毛](https://blog.hehouhui.cn/archives/lkcoffee-shanghai-coffee-activities-20230602)
 - [Hutool 5.8.8  BeanUtil.copyProperties 致命异常](https://blog.hehouhui.cn/archives/hutool-beanutil-error)
-- [RedisOperations scan 用法](https://blog.hehouhui.cn/archives/9)
 - [spring cache](https://blog.hehouhui.cn/archives/18)
 <!-- BLOG-POST-LIST:END -->
 
