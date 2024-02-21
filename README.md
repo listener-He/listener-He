@@ -116,10 +116,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104)
+- [Spring Boot 实现多租户架构：支持应用多租户部署和管理](https://blog.hehouhui.cn/archives/spring-boot-tenant-202309)
 - [微服务之间的数据依赖问题，该如何解决？](https://blog.hehouhui.cn/archives/springcloud-data-202309)
 - [Redis 热key是什么问题，如何导致的？有什么解决方案？](https://blog.hehouhui.cn/archives/redis-key-202309)
-- [HttpClient? RestTemplate？WebClient? 不~是 RestClient](https://blog.hehouhui.cn/archives/spring-restclient-2023)
-- [上海咖啡文化周之薅瑞幸羊毛](https://blog.hehouhui.cn/archives/lkcoffee-shanghai-coffee-activities-20230602)
-- [Hutool 5.8.8  BeanUtil.copyProperties 致命异常](https://blog.hehouhui.cn/archives/hutool-beanutil-error)
+- [Keycloak 客户端授权服务](https://blog.hehouhui.cn/archives/keycloak-client-oauth-guide)
 <!-- BLOG-POST-LIST:END -->
 
