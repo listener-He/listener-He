@@ -121,5 +121,6 @@
 - [微服务之间的数据依赖问题，该如何解决？](https://blog.hehouhui.cn/archives/springcloud-data-202309)
 - [Redis 热key是什么问题，如何导致的？有什么解决方案？](https://blog.hehouhui.cn/archives/redis-key-202309)
 - [Keycloak 客户端授权服务](https://blog.hehouhui.cn/archives/keycloak-client-oauth-guide)
+- [软件架构&amp;数据安全说明](https://blog.hehouhui.cn/archives/20230417)
 <!-- BLOG-POST-LIST:END -->
 
