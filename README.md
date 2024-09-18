@@ -116,11 +116,11 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [JVM GC篇 — 垃圾收集器（下）](https://blog.hehouhui.cn/archives/f1a4cb42-9e37-4192-b12c-14fb0d3cf125)
 - [JVM GC篇 — 垃圾收集器（上）](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8058-9806-ea39626c7c3c)
 - [JVM GC篇 — 一般原理与垃圾收集算法](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80e3-8eb9-cea38cc5e778)
 - [JVM基础 — 内存结构与内存模型初步](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
 - [JVM 基础 — 类加载机制和对象内存布局](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80fa-8cc5-d01436ae72e7)
 - [JVM 基础 — Java 方法调用、反射调用与异常](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80bf-bc10-d7b450f1bff9)
-- [JVM 基础 — Java 字节码](https://blog.hehouhui.cn/archives/java-class)
 <!-- BLOG-POST-LIST:END -->
 
