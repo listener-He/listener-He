@@ -116,11 +116,11 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104)
-- [Spring Boot 实现多租户架构：支持应用多租户部署和管理](https://blog.hehouhui.cn/archives/spring-boot-tenant-202309)
-- [微服务之间的数据依赖问题，该如何解决？](https://blog.hehouhui.cn/archives/springcloud-data-202309)
-- [Redis 热key是什么问题，如何导致的？有什么解决方案？](https://blog.hehouhui.cn/archives/redis-key-202309)
-- [Keycloak 客户端授权服务](https://blog.hehouhui.cn/archives/keycloak-client-oauth-guide)
-- [软件架构&amp;数据安全说明](https://blog.hehouhui.cn/archives/20230417)
+- [JVM GC篇 — 垃圾收集器（上）](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8058-9806-ea39626c7c3c)
+- [JVM GC篇 — 一般原理与垃圾收集算法](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80e3-8eb9-cea38cc5e778)
+- [JVM基础 — 内存结构与内存模型初步](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
+- [JVM 基础 — 类加载机制和对象内存布局](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80fa-8cc5-d01436ae72e7)
+- [JVM 基础 — Java 方法调用、反射调用与异常](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80bf-bc10-d7b450f1bff9)
+- [JVM 基础 — Java 字节码](https://blog.hehouhui.cn/archives/java-class)
 <!-- BLOG-POST-LIST:END -->
 
