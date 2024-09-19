@@ -116,11 +116,11 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [JVM GC篇 — 垃圾收集器（下）](https://blog.hehouhui.cn/archives/f1a4cb42-9e37-4192-b12c-14fb0d3cf125)
-- [JVM GC篇 — 垃圾收集器（上）](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8058-9806-ea39626c7c3c)
-- [JVM GC篇 — 一般原理与垃圾收集算法](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80e3-8eb9-cea38cc5e778)
-- [JVM基础 — 内存结构与内存模型初步](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
-- [JVM 基础 — 类加载机制和对象内存布局](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80fa-8cc5-d01436ae72e7)
-- [JVM 基础 — Java 方法调用、反射调用与异常](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80bf-bc10-d7b450f1bff9)
+- [Netty流程剖析 — 服务启动源码](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8004-ae5d-dc2acaa91b08)
+- [Netty核心组件源码剖析 — ByteBuffer](https://blog.hehouhui.cn/archives/02cc6adb-ded2-4448-81d3-3b71ea5f0e40)
+- [Netty核心组件源码剖析 — Channel](https://blog.hehouhui.cn/archives/1050c7d0-9e17-808e-a5a9-f7bfdbe441e5)
+- [Netty核心组件源码剖析 — NioEventLoop](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8033-b8b3-fa719b6a3114)
+- [网络编程 — Reactor模型与Netty](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8068-a0f0-e63d3b13ba34)
+- [JVM基础 — 内存结构与内存模型](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
 <!-- BLOG-POST-LIST:END -->
 
