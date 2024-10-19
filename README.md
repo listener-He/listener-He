@@ -116,10 +116,10 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [Netty流程剖析 — 服务启动源码](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8004-ae5d-dc2acaa91b08)
-- [Netty核心组件源码剖析 — ByteBuffer](https://blog.hehouhui.cn/archives/02cc6adb-ded2-4448-81d3-3b71ea5f0e40)
-- [Netty核心组件源码剖析 — Channel](https://blog.hehouhui.cn/archives/1050c7d0-9e17-808e-a5a9-f7bfdbe441e5)
-- [Netty核心组件源码剖析 — NioEventLoop](https://blog.hehouhui.cn/archives/1050c7d0-9e17-8033-b8b3-fa719b6a3114)
+- [Elasticsearch — 索引（Mapping Index）](https://blog.hehouhui.cn/archives/elasticsearch-mapping-index)
+- [Elasticsearch — 如何存储数据并保持一致性？](https://blog.hehouhui.cn/archives/elasticsearch-data-sync)
+- [Java算法 — 快速排序（Quick Sort）](https://blog.hehouhui.cn/archives/quick-sort)
+- [Java算法 — 比较排序（Comparison-based Sorting）](https://blog.hehouhui.cn/archives/java-comparison-based-sorting)
 - [JVM基础 — 内存结构与内存模型](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
 - [Mysql数据结构&amp;锁](https://blog.hehouhui.cn/archives/38)
 <!-- BLOG-POST-LIST:END -->
