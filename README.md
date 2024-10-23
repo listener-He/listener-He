@@ -116,11 +116,11 @@
 
 # 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Java IO — NIO Buffer](https://blog.hehouhui.cn/archives/java-nio-buffer)
+- [Java IO — NIO Channel](https://blog.hehouhui.cn/archives/java-nio-channel)
+- [Java IO — IO/NIO模型](https://blog.hehouhui.cn/archives/java-io-nio-basic)
 - [Elasticsearch — 索引（Mapping Index）](https://blog.hehouhui.cn/archives/elasticsearch-mapping-index)
 - [Elasticsearch — 如何存储数据并保持一致性？](https://blog.hehouhui.cn/archives/elasticsearch-data-sync)
-- [Java算法 — 快速排序（Quick Sort）](https://blog.hehouhui.cn/archives/quick-sort)
-- [Java算法 — 比较排序（Comparison-based Sorting）](https://blog.hehouhui.cn/archives/java-comparison-based-sorting)
-- [JVM基础 — 内存结构与内存模型](https://blog.hehouhui.cn/archives/1050c7d0-9e17-80b2-8dfa-d8f819c1221c)
-- [Mysql数据结构&amp;锁](https://blog.hehouhui.cn/archives/38)
+- [Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104)
 <!-- BLOG-POST-LIST:END -->
 
