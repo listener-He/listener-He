@@ -3,22 +3,18 @@
 </div>
 
 <div align="center">
-  <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
-</div>
-
-<div align="center">
-  <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
+  <a href="README.md">English</a> | <a href="README_CN.md">中文</a>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+欢迎来到+Honesty+的赛博空间;💻+Java+%7C+AI+%7C+Spring+AI+专家;🌐+全栈+%7C+数据库架构师;⚡+用代码构建未来" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Honesty's+Cyber+Space;💻+Java+%7C+AI+%7C+Spring+AI+Expert;🌐+Full-Stack+%7C+Database+Architect;⚡+Building+the+Future+with+Code" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 </div>
 
-## 🌟 关于我
+## 🌟 About Me
 
 <table>
 <tr>
@@ -27,19 +23,27 @@
 ```typescript
 class Developer {
   name: string = "Honesty";
-  role: string = "AI应用开发工程师";
-  location: string = "上海, 中国 🇨🇳";
-  company: string = "专注AI应用开发";
+  role: string = "AI Application Developer";
+  location: string = "Shanghai, China 🇨🇳";
+  company: string = "Focused on AI Application Development";
+  mbti: string = "INFJ - The Advocate 🌟";
   
   skills: {
-    backend: ["Java", "Spring Boot", "Spring AI"],
-    frontend: ["React", "Vue.js", "TypeScript"],
-    database: ["MySQL", "Redis", "MongoDB"],
-    ai: ["机器学习", "Spring AI", "大语言模型"],
-    cloud: ["Docker", "Kubernetes", "微服务"]
+    backend: ["Java", "Spring Boot", "Spring AI", "Spring Cloud", "WebFlux"],
+    frontend: ["React", "Vue.js", "TypeScript", "Next.js", "Nuxt.js"],
+    database: ["MySQL", "PostgreSQL", "Redis", "MongoDB", "Elasticsearch"],
+    messageQueue: ["RabbitMQ", "Apache Kafka", "RocketMQ"],
+    ai: ["Machine Learning", "Spring AI", "LLM", "TensorFlow", "PyTorch"],
+    cloud: ["Docker", "Kubernetes", "Microservices", "AWS", "Alibaba Cloud"]
   };
   
-  currentFocus: string = "AI集成 & 响应式设计";
+  personality: {
+    strengths: ["Intuitive", "Creative", "Insightful", "Principled"],
+    codingStyle: "Clean, thoughtful, and purpose-driven",
+    approach: "Holistic thinking with attention to detail"
+  };
+  
+  currentFocus: string = "AI Integration & High-Performance Systems";
   blog: string = "https://blog.hehouhui.cn";
 }
 ```
@@ -47,22 +51,52 @@ class Developer {
 </td>
 <td width="50%">
 
-### 🎯 当前专注
-- 🤖 **AI应用开发**: 使用Spring AI构建智能应用
-- 🎨 **响应式设计**: 创造无缝用户体验
-- 📊 **数据库优化**: 性能调优与架构设计
-- 🚀 **微服务架构**: 可扩展系统设计
+### 🎯 Current Focus
+- 🤖 **AI Application Development**: Building intelligent applications with Spring AI
+- ⚡ **High-Performance Systems**: Reactive programming with WebFlux
+- 📊 **Database Optimization**: Performance tuning and architecture design
+- 🚀 **Microservice Architecture**: Spring Cloud ecosystem mastery
+- 🔍 **Search & Analytics**: Elasticsearch implementation and optimization
 
-### 🌱 学习之路
-- 🧠 高级AI/ML算法
-- ☁️ 云原生架构
-- 🔒 网络安全最佳实践
+### 🌱 Learning Journey: From Novice to Expert
+
+**🎓 Foundation Phase (2019-2020)**
+- ✅ Java Fundamentals & OOP Principles
+- ✅ Basic Web Development (HTML, CSS, JavaScript)
+- ✅ Database Basics (MySQL, SQL)
+- ✅ Version Control (Git)
+
+**🚀 Growth Phase (2021-2022)**
+- ✅ Spring Framework Ecosystem
+- ✅ RESTful API Design
+- ✅ Frontend Frameworks (React, Vue.js)
+- ✅ Docker & Containerization
+- ✅ Redis Caching Strategies
+
+**⚡ Advanced Phase (2023-Present)**
+- 🔄 **High Concurrency & Performance**
+  - Reactive Programming (WebFlux)
+  - Message Queues (Kafka, RabbitMQ)
+  - Load Balancing & Circuit Breakers
+- 🧠 **AI Integration**
+  - Spring AI Framework
+  - LLM Integration
+  - Machine Learning Pipelines
+- ☁️ **Cloud-Native Architecture**
+  - Kubernetes Orchestration
+  - Microservices Patterns
+  - Distributed Systems
+
+**🎯 Future Goals**
+- 🔒 Advanced Cybersecurity
+- 🌐 Edge Computing
+- 🤖 AGI Integration
 
 </td>
 </tr>
 </table>
 
-## 🛠️ 技术栈
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -74,26 +108,43 @@ class Developer {
 
 ### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=000000)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
+![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=000000)
 
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000)
+
+### 📨 Message Queues & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=000000)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=000000)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apache-rocketmq&logoColor=white&labelColor=000000)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=000000)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000)
 
 </div>
 
-## 📊 GitHub 数据分析
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
@@ -104,7 +155,7 @@ class Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
-## 🐍 贡献蛇
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -114,25 +165,55 @@ class Developer {
   </picture>
 </div>
 
-## 🏆 GitHub 奖杯
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 活动图表
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🌐 联系我
+## 🧠 MBTI Personality: INFJ - The Advocate
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🌟 Core Traits</h3>
+        <img src="https://img.shields.io/badge/Intuitive-4A90E2?style=for-the-badge&logoColor=white&labelColor=000000" alt="Intuitive" /><br>
+        <img src="https://img.shields.io/badge/Creative-9B59B6?style=for-the-badge&logoColor=white&labelColor=000000" alt="Creative" /><br>
+        <img src="https://img.shields.io/badge/Insightful-E67E22?style=for-the-badge&logoColor=white&labelColor=000000" alt="Insightful" /><br>
+        <img src="https://img.shields.io/badge/Principled-27AE60?style=for-the-badge&logoColor=white&labelColor=000000" alt="Principled" />
+      </td>
+      <td align="center" width="33%">
+        <h3>💻 Coding Philosophy</h3>
+        <p><em>"Clean, thoughtful, and purpose-driven code"</em></p>
+        <p>🎯 <strong>Approach:</strong> Holistic thinking with attention to detail</p>
+        <p>🔍 <strong>Focus:</strong> Understanding the 'why' behind every solution</p>
+        <p>🌱 <strong>Growth:</strong> Continuous learning and improvement</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤝 Collaboration Style</h3>
+        <p>🎨 <strong>Visionary:</strong> Sees the big picture</p>
+        <p>🔧 <strong>Problem Solver:</strong> Finds elegant solutions</p>
+        <p>📚 <strong>Mentor:</strong> Enjoys sharing knowledge</p>
+        <p>🌟 <strong>Advocate:</strong> Champions best practices</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Connect With Me
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🔗 社交链接</h3>
+        <h3>🔗 Social Links</h3>
         <a href="https://blog.hehouhui.cn" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Blog-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" alt="Blog" />
         </a><br>
@@ -147,7 +228,7 @@ class Developer {
         </a>
       </td>
       <td align="center" width="50%">
-        <h3>📱 微信公众号</h3>
+        <h3>📱 WeChat Official Account</h3>
         <img src="https://blog-file.hehouhui.cn/wechat/mp-honesy.jpg" alt="WeChat QR Code" width="200" style="border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 255, 255, 0.3);" />
         <br><br>
         <img src="https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
@@ -156,10 +237,10 @@ class Developer {
   </table>
 </div>
 
-## 📝 最新博客文章
+## 📝 Latest Blog Posts
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=📚+新鲜出炉的代码厨房;🔥+最新技术洞察;💡+知识分享" alt="Blog Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=📚+Fresh+from+the+Code+Kitchen;🔥+Latest+Tech+Insights;💡+Knowledge+Sharing" alt="Blog Header" />
 </div>
 
 <!-- BLOG-POST-LIST:START -->
@@ -177,7 +258,7 @@ class Developer {
   </a>
 </div>
 
-## 💭 开发者名言
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
@@ -190,7 +271,6 @@ class Developer {
 </div>
 
 <div align="center">
-  <h3>⚡ "代码是用逻辑写成的诗" ⚡</h3>
-  <p><em>用今天的技术构建明天的解决方案</em></p>
+  <h3>⚡ "Code is poetry written in logic" ⚡</h3>
+  <p><em>Building tomorrow's solutions with today's technology</em></p>
 </div>
-
