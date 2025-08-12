@@ -398,14 +398,18 @@ const hehouhui: Developer = {
               <div style="color: #AAA; font-size: 0.8em;">Java异步编程模式与实践</div>
             </div>
           </a>
-          <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-            <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🤖 Spring AI 集成实战</div>
-            <div style="color: #AAA; font-size: 0.8em;">即将发布 - AI应用开发实践</div>
-          </div>
-          <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-            <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🚀 微服务架构设计</div>
-            <div style="color: #AAA; font-size: 0.8em;">筹备中 - 企业级架构实践</div>
-          </div>
+          <a href="https://blog.hehouhui.cn/archives/spring-ai-integration" target="_blank" style="text-decoration: none;">
+            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
+              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🤖 Spring AI 集成实战</div>
+              <div style="color: #AAA; font-size: 0.8em;">AI应用开发实践指南</div>
+            </div>
+          </a>
+          <a href="https://blog.hehouhui.cn/archives/microservices-architecture-design" target="_blank" style="text-decoration: none;">
+            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
+              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🚀 微服务架构设计</div>
+              <div style="color: #AAA; font-size: 0.8em;">企业级微服务架构实践</div>
+            </div>
+          </a>
         </div>
         
         <div style="text-align: center; margin-top: 15px;">
@@ -417,19 +421,19 @@ const hehouhui: Developer = {
 </div>
 
 <!-- Random Dev Quote Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(255,215,0,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,215,0,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
-    <h2 style="color: #FFD700; margin-bottom: 25px; text-shadow: 0 0 20px #FFD700; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">💭 开发者名言</h2>
+    <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">💭 开发者名言</h2>
     
     <div style="text-align: center;">
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,215,0,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,215,0,0.2); margin-bottom: 20px;">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,215,0,0.3);" />
+      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2); margin-bottom: 20px;">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(155,89,182,0.3);" />
       </div>
       
-      <div style="background: rgba(255,215,0,0.1); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,215,0,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,215,0,0.2);">
-        <p style="color: #FFD700; font-size: 1.2em; font-style: italic; margin: 0; text-shadow: 0 0 15px #FFD700; font-family: 'Orbitron', monospace;">"预测未来的最好方法就是创造未来。"</p>
+      <div style="background: rgba(155,89,182,0.1); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
+        <p style="color: #9B59B6; font-size: 1.2em; font-style: italic; margin: 0; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">"预测未来的最好方法就是创造未来。"</p>
         <p style="color: #AAA; font-size: 0.9em; margin-top: 10px;">— 代码是用逻辑写成的诗</p>
       </div>
     </div>

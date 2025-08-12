@@ -672,14 +672,18 @@
               <div style="color: #AAA; font-size: 0.8em;">Java asynchronous programming patterns and practices</div>
             </div>
           </a>
-          <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-            <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🤖 Spring AI Integration Practice</div>
-            <div style="color: #AAA; font-size: 0.8em;">Coming Soon - AI application development practices</div>
-          </div>
-          <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-            <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🚀 Microservices Architecture Design</div>
-            <div style="color: #AAA; font-size: 0.8em;">In Preparation - Enterprise-level architecture practices</div>
-          </div>
+          <a href="https://blog.hehouhui.cn/archives/spring-ai-integration" target="_blank" style="text-decoration: none;">
+            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
+              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🤖 Spring AI Integration Practice</div>
+              <div style="color: #AAA; font-size: 0.8em;">AI application development practices guide</div>
+            </div>
+          </a>
+          <a href="https://blog.hehouhui.cn/archives/microservices-architecture-design" target="_blank" style="text-decoration: none;">
+            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
+              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🚀 Microservices Architecture Design</div>
+              <div style="color: #AAA; font-size: 0.8em;">Enterprise-level microservices architecture practices</div>
+            </div>
+          </a>
         </div>
         
         <div style="text-align: center; margin-top: 15px;">
