@@ -6,19 +6,15 @@
   <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
 </div>
 
-<div align="center">
-  <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+欢迎来到+Honesty+的赛博空间;💻+Java+%7C+AI+%7C+Spring+AI+专家;🌐+全栈+%7C+数据库架构师;⚡+用代码构建未来" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Honesty's+Cyber+Space;💻+Java+%7C+AI+%7C+Spring+AI+Expert;🌐+Full-Stack+%7C+Database+Architect;⚡+Building+the+Future+with+Code" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 </div>
 
-## 🌟 关于我
+## 🌟 About Me
 
 <table>
 <tr>
@@ -27,19 +23,19 @@
 ```typescript
 class Developer {
   name: string = "Honesty";
-  role: string = "AI应用开发工程师";
-  location: string = "上海, 中国 🇨🇳";
-  company: string = "专注AI应用开发";
+  role: string = "AI Application Developer";
+  location: string = "Shanghai, China 🇨🇳";
+  company: string = "Focused on AI Application Development";
   
   skills: {
     backend: ["Java", "Spring Boot", "Spring AI"],
     frontend: ["React", "Vue.js", "TypeScript"],
     database: ["MySQL", "Redis", "MongoDB"],
-    ai: ["机器学习", "Spring AI", "大语言模型"],
-    cloud: ["Docker", "Kubernetes", "微服务"]
+    ai: ["Machine Learning", "Spring AI", "LLM"],
+    cloud: ["Docker", "Kubernetes", "Microservices"]
   };
   
-  currentFocus: string = "AI集成 & 响应式设计";
+  currentFocus: string = "AI Integration & Responsive Design";
   blog: string = "https://blog.hehouhui.cn";
 }
 ```
@@ -47,22 +43,22 @@ class Developer {
 </td>
 <td width="50%">
 
-### 🎯 当前专注
-- 🤖 **AI应用开发**: 使用Spring AI构建智能应用
-- 🎨 **响应式设计**: 创造无缝用户体验
-- 📊 **数据库优化**: 性能调优与架构设计
-- 🚀 **微服务架构**: 可扩展系统设计
+### 🎯 Current Focus
+- 🤖 **AI Application Development**: Building intelligent applications with Spring AI
+- 🎨 **Responsive Design**: Creating seamless user experiences
+- 📊 **Database Optimization**: Performance tuning and architecture design
+- 🚀 **Microservice Architecture**: Scalable system design
 
-### 🌱 学习之路
-- 🧠 高级AI/ML算法
-- ☁️ 云原生架构
-- 🔒 网络安全最佳实践
+### 🌱 Learning Journey
+- 🧠 Advanced AI/ML algorithms
+- ☁️ Cloud-native architectures
+- 🔒 Cybersecurity best practices
 
 </td>
 </tr>
 </table>
 
-## 🛠️ 技术栈
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -93,7 +89,7 @@ class Developer {
 
 </div>
 
-## 📊 GitHub 数据分析
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
@@ -104,7 +100,7 @@ class Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
-## 🐍 贡献蛇
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -114,25 +110,25 @@ class Developer {
   </picture>
 </div>
 
-## 🏆 GitHub 奖杯
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 活动图表
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🌐 联系我
+## 🌐 Connect With Me
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🔗 社交链接</h3>
+        <h3>🔗 Social Links</h3>
         <a href="https://blog.hehouhui.cn" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Blog-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" alt="Blog" />
         </a><br>
@@ -147,7 +143,7 @@ class Developer {
         </a>
       </td>
       <td align="center" width="50%">
-        <h3>📱 微信公众号</h3>
+        <h3>📱 WeChat Official Account</h3>
         <img src="https://blog-file.hehouhui.cn/wechat/mp-honesy.jpg" alt="WeChat QR Code" width="200" style="border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 255, 255, 0.3);" />
         <br><br>
         <img src="https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
@@ -156,10 +152,10 @@ class Developer {
   </table>
 </div>
 
-## 📝 最新博客文章
+## 📝 Latest Blog Posts
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=📚+新鲜出炉的代码厨房;🔥+最新技术洞察;💡+知识分享" alt="Blog Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=📚+Fresh+from+the+Code+Kitchen;🔥+Latest+Tech+Insights;💡+Knowledge+Sharing" alt="Blog Header" />
 </div>
 
 <!-- BLOG-POST-LIST:START -->
@@ -177,7 +173,7 @@ class Developer {
   </a>
 </div>
 
-## 💭 开发者名言
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
@@ -190,7 +186,6 @@ class Developer {
 </div>
 
 <div align="center">
-  <h3>⚡ "代码是用逻辑写成的诗" ⚡</h3>
-  <p><em>用今天的技术构建明天的解决方案</em></p>
+  <h3>⚡ "Code is poetry written in logic" ⚡</h3>
+  <p><em>Building tomorrow's solutions with today's technology</em></p>
 </div>
-
