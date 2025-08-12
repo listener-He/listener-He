@@ -218,6 +218,12 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [Java端Zstd实战：序列化与反序列化全流程处理](https://blog.hehouhui.cn/archives/java-zstd-serialization-deserialization-complete-guide)
+- [压缩算法全家桶：Gzip/Brotli/Zstd/Deflate 从依赖安装到场景落地（Node.js &amp; Java 实战指南）](https://blog.hehouhui.cn/archives/complete-guide-to-compression-algorithms-from-installation-to-implementation)
+- [深入剖析限流：从基础概念到算法实现](https://blog.hehouhui.cn/archives/classic-rate-limiting-algorithms-guide)
+- [分布式场景下限流算法的挑战与Resilience4j深度剖析](https://blog.hehouhui.cn/archives/distributed-rate-limiting-challenges-resilience4j-deep-dive-guide)
+- [Guava 组件中的四种限流算法解析](https://blog.hehouhui.cn/archives/guava-rate-limiting-algorithms-fixed-sliding-window-leaky-token-bucket-guide)
+- [Spring 作用域冲突深度解析：@Scope&lpar;&quot;prototype&quot;&rpar;与@RequestScope的冲突与解决方案](https://blog.hehouhui.cn/archives/2310c7d0-9e17-8068-ad2c-f3f5e3bc1b39)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
