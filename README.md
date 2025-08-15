@@ -218,10 +218,10 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [给 AI 装上 &quot;记忆大脑&quot;：Spring AI RAG 实战开源代码 —— 从 0 到 1 构建智能问答系统](https://blog.hehouhui.cn/archives/spring-ai-rag-implementation-guide)
 - [特征向量入门：从线性变化到数据密码](https://blog.hehouhui.cn/archives/eigenvector-guide-from-basics-to-applications)
 - [Java端Zstd实战：序列化与反序列化全流程处理](https://blog.hehouhui.cn/archives/java-zstd-serialization-deserialization-complete-guide)
 - [压缩算法全家桶：Gzip/Brotli/Zstd/Deflate 从依赖安装到场景落地（Node.js &amp; Java 实战指南）](https://blog.hehouhui.cn/archives/complete-guide-to-compression-algorithms-from-installation-to-implementation)
-- [深入剖析限流：从基础概念到算法实现](https://blog.hehouhui.cn/archives/classic-rate-limiting-algorithms-guide)
 - [Spring AI 高级RAG检索增强生成优化指南： MultiQuery ，CompressionQueryTransformer，ConcatenationDocumentJoiner与文档处理提升检索精度与召回率](https://blog.hehouhui.cn/archives/2340c7d0-9e17-80c0-a24a-c41d5f5546ac)
 - [Spring AI RAG 检索增强实战：MultiQueryExpander+RewriteQueryTransformer+CompressionQueryTransformer打造高精准多轮对话知识库问答系统](https://blog.hehouhui.cn/archives/2340c7d0-9e17-8045-a1fe-dc612150a9a0)
 <!-- BLOG-POST-LIST:END -->
