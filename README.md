@@ -218,9 +218,9 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [浮点数转换IEEE 754标准：从性能损耗原理到高并发场景的优化实践](https://blog.hehouhui.cn/archives/ieee-754-floating-point-conversion-optimization-guide)
 - [Gemini CLI 详细指南：不止命令行，更是你的AI智能体搭子 🤖✨](https://blog.hehouhui.cn/archives/gemini-cli-guide-free-gemini-2-5-pro-install-tips-use-cases)
 - [给 AI 装上 &quot;记忆大脑&quot;：Spring AI RAG 实战开源代码 —— 从 0 到 1 构建智能问答系统](https://blog.hehouhui.cn/archives/spring-ai-rag-implementation-guide)
-- [特征向量入门：从线性变化到数据密码](https://blog.hehouhui.cn/archives/eigenvector-guide-from-basics-to-applications)
 - [Spring AI 高级RAG检索增强生成优化指南： MultiQuery ，CompressionQueryTransformer，ConcatenationDocumentJoiner与文档处理提升检索精度与召回率](https://blog.hehouhui.cn/archives/2340c7d0-9e17-80c0-a24a-c41d5f5546ac)
 - [Spring AI RAG 检索增强实战：MultiQueryExpander+RewriteQueryTransformer+CompressionQueryTransformer打造高精准多轮对话知识库问答系统](https://blog.hehouhui.cn/archives/2340c7d0-9e17-8045-a1fe-dc612150a9a0)
 - [Netty源码深度解析：从启动到数据流转的全链路剖析](https://blog.hehouhui.cn/archives/2300c7d0-9e17-80a8-8677-fe3619974bd9)
