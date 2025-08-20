@@ -218,11 +218,11 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [🌱一篇总结速通 Spring Bean 生命周期：从“出生”到“入土”的 超爽攻略 📖](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-deep-dive)
 - [JDK 8至24浮点数转换底层原理与优化演进](https://blog.hehouhui.cn/archives/understanding-floating-point-conversions-and-jdk-version-differences)
 - [浮点数转换IEEE 754标准：从性能损耗原理到高并发场景的优化实践](https://blog.hehouhui.cn/archives/ieee-754-floating-point-conversion-optimization-guide)
 - [Gemini CLI 详细指南：不止命令行，更是你的AI智能体搭子 🤖✨](https://blog.hehouhui.cn/archives/gemini-cli-guide-free-gemini-2-5-pro-install-tips-use-cases)
 - [给 AI 装上 &quot;记忆大脑&quot;：Spring AI RAG 实战开源代码 —— 从 0 到 1 构建智能问答系统](https://blog.hehouhui.cn/archives/spring-ai-rag-implementation-guide)
-- [Spring AI 高级RAG检索增强生成优化指南： MultiQuery ，CompressionQueryTransformer，ConcatenationDocumentJoiner与文档处理提升检索精度与召回率](https://blog.hehouhui.cn/archives/2340c7d0-9e17-80c0-a24a-c41d5f5546ac)
 - [Netty源码深度解析：从启动到数据流转的全链路剖析](https://blog.hehouhui.cn/archives/2300c7d0-9e17-80a8-8677-fe3619974bd9)
 <!-- BLOG-POST-LIST:END -->
 
