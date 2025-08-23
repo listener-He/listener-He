@@ -218,12 +218,12 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysql优化器&lpar;3&rpar;超图优化器解析：MySQL优化器的“智能大脑”进化](https://blog.hehouhui.cn/archives/mysql-hypergraph-optimizer-deep-analysis-evolution-history-principles-practice)
+- [MySQL优化器&lpar;2&rpar;官方文档深读笔记：优化器的“操作手册”全解析](https://blog.hehouhui.cn/archives/mysql-official-document-optimizer-guide-deep-reading-manual-analysis)
+- [MySQL优化器&lpar;1&rpar;编年史：从 “规则执行者” 到 “成本决策者” 的演化之路 读懂进化，掌控性能](https://blog.hehouhui.cn/archives/mysql-optimizer-evolution-history-performance-optimization-guide-column-preface)
 - [聊聊一个优雅组件配置设计该长啥样：从SpringBoot @Configuration到开闭原则，一次说透！](https://blog.hehouhui.cn/archives/spring-boot-elegant-component-configuration-design)
 - [Spring Boot Cache 解刨：@Cacheable 注解用法 + Redis 缓存优化，从架构设计到批量缓存性能提升指南](https://blog.hehouhui.cn/archives/spring-boot-cache-cacheable-redis-optimization-guide)
 - [从注解到SPI：Spring Boot配置体系的设计艺术](https://blog.hehouhui.cn/archives/spring-boot-configuration-from-annotations-to-spi-design)
-- [MySQL行值表达式：从“一脸懵”到“玩明白”的实战指南; Mysql RVC,Mysql元组比较,Row Value Constructor/Comparison](https://blog.hehouhui.cn/archives/mysql-row-value-expression-practice-guide)
-- [🌱一篇总结速通 Spring Bean 生命周期：从“出生”到“入土”的 超爽攻略 📖](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-deep-dive)
-- [JDK 8至24浮点数转换底层原理与优化演进](https://blog.hehouhui.cn/archives/understanding-floating-point-conversions-and-jdk-version-differences)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
