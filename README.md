@@ -219,10 +219,10 @@ interface Developer {
 
 <!-- BLOG-POST-LIST:START -->
 - [MySQL优化器&lpar;5&rpar;调试工具与面试指南：从“猜优化器”到“懂优化器”](https://blog.hehouhui.cn/archives/mysql-optimizer-debug-tools-interview-guide)
+- [MySQL优化器&lpar;4&rpar;成本模型解剖：优化器的“成本”到底怎么计算的？](https://blog.hehouhui.cn/archives/mysql-cost-model-complete-analysis-optimizer-cost-calculation-principles)
 - [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT 的底层逻辑](https://blog.hehouhui.cn/archives/compiler-principle-jit-aot-java-python-go-machine-code-cloud-native)
 - [MySQL InnoDB存储引擎深度解析：架构、原理与实践](https://blog.hehouhui.cn/archives/mysql-innodb-storage-engine-architecture-principles-practice)
 - [MySQL InnoDB核心原理与实践：从索引到分库分表的决策速记](https://blog.hehouhui.cn/archives/mysql-innodb-index-to-sharding-principles-practice)
-- [MySQL优化器&lpar;3&rpar;超图优化器解析：MySQL优化器的“智能大脑”进化](https://blog.hehouhui.cn/archives/mysql-hypergraph-optimizer-deep-analysis-evolution-history-principles-practice)
 - [MySQL优化器&lpar;2&rpar;官方文档深读笔记：优化器的“操作手册”全解析](https://blog.hehouhui.cn/archives/mysql-official-document-optimizer-guide-deep-reading-manual-analysis)
 <!-- BLOG-POST-LIST:END -->
 
