@@ -218,12 +218,12 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [从 RAG 到 Context Engineering：大语言模型时代的上下文治理革命](https://blog.hehouhui.cn/archives/context-engineering-complete-guide-llm-rag-evolution-practice-scenarios)
+- [从RAG到Context Engineering：重新定义AI系统的认知能力边界](https://blog.hehouhui.cn/archives/rag-to-context-engineering-beginner-complete-guide)
 - [什么是增量静态再生&lpar;ISR&rpar;技术？：从Next.js &amp; Nuxt 开始入门](https://blog.hehouhui.cn/archives/isr-implementation-guide-with-nextjs-nuxt-real-cases)
 - [从Java到Next.js：5年博客建站的“省心省钱”之路](https://blog.hehouhui.cn/archives/blog-tech-stack-chahge)
 - [MySQL优化器&lpar;4&rpar;成本模型解剖：优化器的“成本”到底怎么计算的？](https://blog.hehouhui.cn/archives/mysql-cost-model-complete-analysis-optimizer-cost-calculation-principles)
 - [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT 的底层逻辑](https://blog.hehouhui.cn/archives/compiler-principle-jit-aot-java-python-go-machine-code-cloud-native)
-- [MySQL InnoDB存储引擎深度解析：架构、原理与实践](https://blog.hehouhui.cn/archives/mysql-innodb-storage-engine-architecture-principles-practice)
-- [MySQL InnoDB核心原理与实践：从索引到分库分表的决策速记](https://blog.hehouhui.cn/archives/mysql-innodb-index-to-sharding-principles-practice)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
