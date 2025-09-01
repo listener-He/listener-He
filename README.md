@@ -218,12 +218,12 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL优化器&lpar;5&rpar;调试工具与面试指南：从“猜优化器”到“懂优化器”](https://blog.hehouhui.cn/archives/mysql-optimizer-debug-tools-interview-guide)
+- [什么是增量静态再生&lpar;ISR&rpar;技术？：从Next.js &amp; Nuxt 开始入门](https://blog.hehouhui.cn/archives/isr-implementation-guide-with-nextjs-nuxt-real-cases)
+- [从Java到Next.js：5年博客建站的“省心省钱”之路](https://blog.hehouhui.cn/archives/blog-tech-stack-chahge)
 - [MySQL优化器&lpar;4&rpar;成本模型解剖：优化器的“成本”到底怎么计算的？](https://blog.hehouhui.cn/archives/mysql-cost-model-complete-analysis-optimizer-cost-calculation-principles)
 - [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT 的底层逻辑](https://blog.hehouhui.cn/archives/compiler-principle-jit-aot-java-python-go-machine-code-cloud-native)
 - [MySQL InnoDB存储引擎深度解析：架构、原理与实践](https://blog.hehouhui.cn/archives/mysql-innodb-storage-engine-architecture-principles-practice)
 - [MySQL InnoDB核心原理与实践：从索引到分库分表的决策速记](https://blog.hehouhui.cn/archives/mysql-innodb-index-to-sharding-principles-practice)
-- [MySQL优化器&lpar;2&rpar;官方文档深读笔记：优化器的“操作手册”全解析](https://blog.hehouhui.cn/archives/mysql-official-document-optimizer-guide-deep-reading-manual-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
