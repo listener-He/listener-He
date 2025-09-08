@@ -222,8 +222,8 @@ interface Developer {
 - [LLM Context Engineering 大模型上下文工程：系统性学习核心原理与实现架构](https://blog.hehouhui.cn/archives/large-language-model-context-engineering-comprehensive-analysis-core-principles-to-system-implementation)
 - [小白入门LLM Context上下文工程：从基础到实践，通俗易懂讲明白](https://blog.hehouhui.cn/archives/beginner-guide-to-llm-context-engineering-basics-to-practice)
 - [从RAG到Context Engineering：重新定义AI系统的认知能力边界](https://blog.hehouhui.cn/archives/rag-to-context-engineering-beginner-complete-guide)
-- [从 RAG 到 Context Engineering：大语言模型时代的上下文治理革命](https://blog.hehouhui.cn/archives/context-engineering-complete-guide-llm-rag-evolution-practice-scenarios)
 - [Guava 组件中的四种限流算法解析](https://blog.hehouhui.cn/archives/guava-rate-limiting-algorithms-fixed-sliding-window-leaky-token-bucket-guide)
+- [从规范到架构：一篇读懂 Java 工程建模、分层、命名与演进之路](https://blog.hehouhui.cn/archives/scalable-java-architecture-from-monolith-to-microservices)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
