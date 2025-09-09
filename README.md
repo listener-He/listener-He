@@ -218,12 +218,12 @@ interface Developer {
 - [🚀 Java异步编程方式介绍](https://blog.hehouhui.cn/archives/java-sync-introduce-1104) - 现代Java异步编程模式与实践
 
 <!-- BLOG-POST-LIST:START -->
+- [Faiss 深度学习指南：从背景到架构&amp;算法  —— 向量检索核心算法（IVF-PQ/HNSW）解析、CPU/GPU 加速优化、索引构建与持久化、动态数据处理方案](https://blog.hehouhui.cn/archives/faiss-deep-learning-guide-vector-search-algorithm-cpu-gpu-optimization-index-building-industrial-practice-rag)
+- [高维向量检索 Faiss：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-high-dimensional-vector-search-academic-foundation-vector-database-core-role-pq-ivf-hnsw)
 - [今天不想做英雄，只想把碗洗干净。](https://blog.hehouhui.cn/archives/2025-09-05-normal-offday-evening)
 - [LLM Context Engineering 大模型上下文工程：系统性学习核心原理与实现架构](https://blog.hehouhui.cn/archives/large-language-model-context-engineering-comprehensive-analysis-core-principles-to-system-implementation)
-- [小白入门LLM Context上下文工程：从基础到实践，通俗易懂讲明白](https://blog.hehouhui.cn/archives/beginner-guide-to-llm-context-engineering-basics-to-practice)
-- [从RAG到Context Engineering：重新定义AI系统的认知能力边界](https://blog.hehouhui.cn/archives/rag-to-context-engineering-beginner-complete-guide)
-- [Guava 组件中的四种限流算法解析](https://blog.hehouhui.cn/archives/guava-rate-limiting-algorithms-fixed-sliding-window-leaky-token-bucket-guide)
 - [从规范到架构：一篇读懂 Java 工程建模、分层、命名与演进之路](https://blog.hehouhui.cn/archives/scalable-java-architecture-from-monolith-to-microservices)
+- [Spring Bean 源码深度剖析：生命周期、加载机制与作用域的底层实现](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-loading-mechanism-scope-implementation)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
