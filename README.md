@@ -221,9 +221,9 @@ interface Developer {
 - [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
 - [Faiss vector database 深度学习指南：从背景到架构&amp;算法&amp;安装  —— 向量检索核心算法（IVF-PQ/HNSW）解析、CPU/GPU 加速优化、索引构建与持久化、动态数据处理方案](https://blog.hehouhui.cn/archives/faiss-deep-learning-guide-vector-search-algorithm-cpu-gpu-optimization-index-building-industrial-practice-rag)
 - [今天不想做英雄，只想把碗洗干净。](https://blog.hehouhui.cn/archives/2025-09-05-normal-offday-evening)
-- [LLM Context Engineering 大模型上下文工程：系统性学习核心原理与实现架构](https://blog.hehouhui.cn/archives/large-language-model-context-engineering-comprehensive-analysis-core-principles-to-system-implementation)
 - [从规范到架构：一篇读懂 Java 工程建模、分层、命名与演进之路](https://blog.hehouhui.cn/archives/scalable-java-architecture-from-monolith-to-microservices)
 - [Spring Bean 源码深度剖析：生命周期、加载机制与作用域的底层实现](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-loading-mechanism-scope-implementation)
+- [Spring Boot项目启动优化](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
 <!-- BLOG-POST-LIST:END -->
 
 [![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
