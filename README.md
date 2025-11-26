@@ -1,240 +1,276 @@
-<div align="center" style="background: url('./images/bj.jpg')">
+<div align="center" style="padding: 40px 0;">
 
-  <!-- Language Switcher -->
-  <p>
-    <a href="README.md">🇺🇸 English</a> | 
-    <a href="README_CN.md">🇨🇳 中文</a>
-  </p>
+<!-- Language Selection -->
+<p align="right" style="margin-bottom: 30px;">
+  <a href="https://www.hehouhui.cn/about.html?lang=en" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">About Me</a> |
+  <a href="#" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇺🇸 English</a> | 
+  <a href="README_CN.md" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇨🇳 中文</a>
+</p>
 
-  <!-- Main Header -->
-  <h1>🚀 Welcome to Honesty's Cyber Space</h1>
-  <h2>💻 AI Application Developer | 🌟 INFJ | Shanghai | Spring AI Expert</h2>
-  <h3>⚡ Building Tomorrow's Solutions</h3>
+<!-- Hero Identity -->
+<h1 style="font-weight: 300; letter-spacing: 3px; margin: 0; font-size: 2.5em; color: #ECF0F1;">Honesty</h1>
+<h3 style="font-weight: 300; color: #AEB6BF; margin: 8px 0; font-size: 1.2em;">Java Backend & AI Agent Developer</h3>
+<p style="color: #85929E; font-size: 0.95em; letter-spacing: 1px;">Shanghai, China 🇨🇳 • INFJ - The Visionary Advocate</p>
 
-  <!-- MBTI Highlight -->
-  <h2>🧠 MBTI: INFJ - The Advocate</h2>
+<!-- Philosophy Divider -->
+<div style="width: 80px; height: 2px; background: linear-gradient(90deg, #5DADE2, #48C9B9); margin: 30px auto;"></div>
 
-**Personality Traits:**
-
-- 🔮 **Intuitive** - Future-focused thinking
-- 🎨 **Creative** - Innovative solutions
-- 💡 **Insightful** - Deep understanding
-- ⚖️ **Principled** - Value-driven approach
-
-**💻 Coding Philosophy:**
-> "Clean, thoughtful, and purpose-driven code that solves real problems"
-
-✨ Quality over quantity • 🎯 User-centric design • 🚀 Continuous improvement
+<blockquote style="max-width: 600px; margin: 40px auto; border-left: none; font-style: italic; color: #ABB2B9; font-weight: 300; font-size: 1.1em; line-height: 1.6;">
+  "Elegant code transcends syntax—it is the deliberate orchestration of logic, purpose, and timeless simplicity."
+</blockquote>
 
 </div>
 
-## 🌟 About Me
+## 🌟 Professional Essence
 
-**👨‍💻 Developer Profile:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
 
-```ts
-interface Developer {
-    name: "Honesty";
-    role: "AI Application Developer";
-    location: "Shanghai, China 🇨🇳";
-    mbti: "INFJ - The Advocate 🌟";
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(93, 173, 226, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #5DADE2; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Backend</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Java</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">WebFlux</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring Cloud</span>
+    </div>
+  </div>
 
-    skills: {
-        backend: ["Java", "Spring AI", "WebFlux"];
-        frontend: ["React", "Vue.js", "TypeScript"];
-        database: ["PostgreSQL", "Redis", "Elasticsearch"];
-        ai: ["Spring AI", "LLM", "TensorFlow"];
-        cloud: ["Docker", "Kubernetes", "AWS"];
-    };
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(72, 201, 185, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #48C9B9; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Frontend</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">React</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Vue.js</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">TypeScript</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Next.js</span>
+    </div>
+  </div>
 
-    personality: {
-        strengths: ["Intuitive", "Creative", "Principled"];
-        codingStyle: "Clean & Purpose-driven";
-    };
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(155, 89, 182, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #BB8FCE; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Intelligence</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">LLM Integration</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">TensorFlow</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">PyTorch</span>
+    </div>
+  </div>
 
-    currentFocus: "AI Integration & Performance";
-}
-```
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(230, 126, 34, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #F39C12; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Data & Storage</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">PostgreSQL</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Redis</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Elasticsearch</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">MongoDB</span>
+    </div>
+  </div>
 
-**📊 Quick Stats:**
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(52, 152, 219, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #3498DB; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Messaging & Events</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Apache Kafka</span>
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">RabbitMQ</span>
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">RocketMQ</span>
+    </div>
+  </div>
 
-- 🎯 **5+** Years Experience
-- 🛠️ **20+** Technologies
-- 🧠 **INFJ** Personality
-- 🚀 **∞** Learning
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(39, 174, 96, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #2ECC71; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Infrastructure & Cloud</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Docker</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Kubernetes</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">AWS</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Alibaba Cloud</span>
+    </div>
+  </div>
+</div>
+---
 
-- 🤖 **AI Application Development** - Building intelligent applications with Spring AI
-- ⚡ **High-Performance Systems** - Reactive programming with WebFlux
-- ☁️ **Cloud-Native Architecture** - Microservices & Kubernetes mastery
+## 📊 Professional Compass
 
-### 🌱 Learning Journey: From Novice to Expert
+<div align="center">
 
-**🎓 Foundation Phase (2019-2020)**
+<table style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Experience-7%2B%20Years-5DADE2?style=flat-square&logo=java&logoColor=white&labelColor=2C3E50" />
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Technologies-20%2B-48C9B9?style=flat-square&logo=stackshare&logoColor=white&labelColor=2C3E50" />
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Archetype-INFJ%20Advocate-EC7063?style=flat-square&logo=16personalities&logoColor=white&labelColor=2C3E50" />
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Learning-%E2%88%9E%20Infinity-58D68D?style=flat-square&logo=learnedit&logoColor=white&labelColor=2C3E50" />
+    </td>
+  </tr>
+</table>
 
-- ✅ Java Fundamentals & OOP
-- ✅ Web Development Basics
-- ✅ Database Fundamentals
-- ✅ Version Control (Git)
+</div>
 
-**🚀 Growth Phase (2021-2022)**
+---
 
-- ✅ Spring Framework
-- ✅ RESTful API Design
-- ✅ Frontend Frameworks
-- ✅ Docker & Containers
-- ✅ Redis Caching
+## 🎓 Evolutionary Path
 
-**⚡ Advanced Phase (2023-Present)**
+### 📖 Foundation & Mastery Era (2019-2022)
+- **Core Engineering Principles**: Object-oriented mastery, algorithmic thinking, design patterns
+- **Full-Stack Architecture**: RESTful design, responsive interfaces, state management
+- **Data Engineering**: Transactional integrity, caching strategies, NoSQL paradigms
+- **Professional Workflow**: Git proficiency, container fundamentals, CI/CD principles
 
-*🔄 High Concurrency & Performance:*
+### 🚀 Intelligence-First Architecture (2023-Present)
 
-- WebFlux Reactive
-- Message Queues
-- Load Balancing
+*🌊 Reactive & Concurrent Systems*
+- **WebFlux & Project Reactor**: Non-blocking I/O, backpressure management, reactive streams
+- **Event-Driven Architecture**: Kafka event sourcing, CQRS patterns, eventual consistency
+- **Resilience Engineering**: Circuit breakers, rate limiting, distributed sagas
 
-*🧠 AI Integration:*
+*🧠 Artificial Intelligence Integration*
+- **Spring AI Framework**: Production-grade LLM orchestration, prompt engineering
+- **Vector Intelligence**: FAISS integration, semantic embeddings, RAG pipelines
+- **ML Operations**: Model versioning, A/B experimentation, observability
 
-- Spring AI Framework
-- LLM Integration
-- ML Pipelines
+*☁️ Cloud-Native Excellence*
+- **Kubernetes Mastery**: Operators, service meshes, advanced scheduling
+- **Microservices Architecture**: DDD implementation, API gateways, distributed tracing
+- **Observability**: Prometheus metrics, Grafana dashboards, ELK stack
 
-*☁️ Cloud-Native Architecture:*
+---
 
-- Kubernetes
-- Microservices
-- Service Mesh
-  **🎯 Future Goals**
-- 🔒 Advanced Cybersecurity
-- 🌐 Edge Computing
-- 🤖 AGI Integration
+## 🛠️ Technical Palette
 
+**Architectural Languages**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2C3E50" />
+</span>
 
-## 🛠️ Tech Arsenal
+**Framework Ecosystem**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/WebFlux_Reactive-6DB33F?style=flat-square&logo=reactivex&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=2C3E50" />
+</span>
 
-**💻 Programming Languages**
+**Infrastructure & Operations**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2C3E50" />
+</span>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+---
 
-**🚀 Frameworks & Libraries**
+## 📈 Development Canvas
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+<div align="center" style="margin: 30px 0;">
 
-**🗄️ Databases & Storage**
+<!-- GitHub Analytics -->
+<table style="border-collapse: collapse; max-width: 100%;">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=5DADE2&text_color=95A5A6&icon_color=5DADE2" alt="GitHub Stats" style="max-width: 100%;" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=48C9B9&text_color=95A5A6" alt="Top Languages" style="max-width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 15px;">
+      <img src="https://streak-stats.demolab.com?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DADE2&ring=5DADE2&fire=EC7063&currStreakLabel=5DADE2" alt="GitHub Streak" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**📨 Message Queues**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=apache-rocketmq&logoColor=white)
-
-**☁️ DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**🤖 AI & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
-
-## 🐍 Contribution Snake
-
-<picture>
+<!-- Contribution Visualization -->
+<picture style="display: block; margin: 20px 0;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg" style="width: 100%; max-width: 800px; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));" />
 </picture>
 
-## 📊 GitHub Analytics
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=5DADE2&line=5DADE2&point=95A5A6&area=true&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 1000px; margin: 20px 0;" />
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
+<!-- Achievements -->
+<div style="margin-top: 30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+</div>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
+---
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF)
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)
-
-## 🌐 Connect With Me
-
-**🔗 Social Links**
-
-[![Blog](https://img.shields.io/badge/🌐_Blog-FF6B6B?style=flat-square&logoColor=white)](https://blog.hehouhui.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/listener-He)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/honesty861024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/honesty861024)
-
-**📱 WeChat Official Account**
-
-<img src="./images/mp-honesy.jpg" alt="WeChat QR Code" width="180">
-
-*Scan to follow my WeChat Official Account*
-
-![Profile Views](https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=00FFFF&style=flat-square)
-
-## 📝 Latest Blog Posts
+## 📝 Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
-
-- [&quot;关于我&quot;页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
+- ["关于我"页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
 - [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
 - [Faiss vector database 深度学习指南：从背景到架构&amp;算法&amp;安装 —— 向量检索核心算法（IVF-PQ/HNSW）解析、CPU/GPU 加速优化、索引构建与持久化、动态数据处理方案](https://blog.hehouhui.cn/archives/faiss-deep-learning-guide-vector-search-algorithm-cpu-gpu-optimization-index-building-industrial-practice-rag)
 - [从规范到架构：一篇读懂 Java 工程建模、分层、命名与演进之路](https://blog.hehouhui.cn/archives/scalable-java-architecture-from-monolith-to-microservices)
 - [Spring Bean 源码深度剖析：生命周期、加载机制与作用域的底层实现](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-loading-mechanism-scope-implementation)
 - [Spring Boot项目启动优化](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
-
 <!-- BLOG-POST-LIST:END -->
 
-[![Read More Articles](https://img.shields.io/badge/📖_Read_More_Articles-FF6B6B?style=for-the-badge&logoColor=white)](https://blog.hehouhui.cn)
-
-## 💭 Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-*"Code is poetry written in logic" - Every Developer's Journey*
+<div align="center" style="margin-top: 25px;">
+  <a href="https://blog.hehouhui.cn" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 1px solid #5DADE2; border-radius: 25px; color: #5DADE2; transition: all 0.3s ease; font-weight: 300;">
+    Explore More Articles →
+  </a>
+</div>
 
 ---
 
-<div align="center">
+## 🌐 Professional Network
 
-## ⚡ Thanks for Visiting! ⚡
+<div align="center" style="margin: 30px 0;">
 
-Let's build the future together, one commit at a time
-
-🚀 Always Learning • 💡 Always Creating • 🤝 Always Sharing
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=60&fontColor=00FFFF&animation=twinkling)
-
-*"The best way to predict the future is to create it" - Alan Kay*
+  <a href="https://blog.hehouhui.cn" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Blog-EC7063?style=flat-square&logo=hashnode&logoColor=white&labelColor=2C3E50" />
+  </a>
+  <a href="https://github.com/listener-He" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&labelColor=2C3E50" />
+  </a>
+  <a href="https://twitter.com/honesty861024" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=2C3E50" />
+  </a>
+  <a href="https://linkedin.com/in/honesty861024" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=2C3E50" />
+  </a>
 
 </div>
+
+<p align="center" style="margin-top: 25px;">
+  <img src="./images/mp-honesy.jpg" alt="WeChat Official Account" width="150" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.2); filter: brightness(0.95);" />
+  <br/>
+  <span style="color: #7F8C8D; font-size: 0.85em; font-style: italic;">Scan to connect on WeChat</span>
+</p>
+
+---
+
+## 💭 Reflection
+
+<blockquote style="max-width: 700px; margin: 40px auto; border-left: 4px solid #9B59B6; padding-left: 25px; font-style: italic; color: #95A5A6; font-weight: 300; font-size: 1.05em; line-height: 1.7;">
+  "The most profound architectures emerge from the quiet intersection of deep technical mastery and intuitive human understanding."
+</blockquote>
+
+---
+
+<div align="center" style="margin: 50px 0 30px 0;">
+
+  <p style="color: #85929E; font-size: 0.9em; font-weight: 300; letter-spacing: 1px;">
+    Crafting the future through elegant code and thoughtful architecture
+  </p>
+
+  <p style="color: #AAB7B8; font-size: 0.75em; margin-top: 15px;">
+    Thank you for visiting my digital atelier • 感谢您的访问
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,32,44&height=100&section=footer&text=Keep%20Building&fontSize=40&fontColor=5DADE2&animation=twinkling" alt="Footer" style="margin-top: 25px; max-width: 100%;" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=5DADE2&style=flat-square&labelColor=2C3E50" alt="Profile Views" />
+</p>

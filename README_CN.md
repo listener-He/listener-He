@@ -1,429 +1,268 @@
-<div align="center" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); margin-bottom: 20px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+<div align="center" style="padding: 40px 0;">
 
-  <!-- Language Switcher -->
-  <div style="position: relative; z-index: 2; text-align: right; margin-bottom: 20px;">
-    <a href="./README.md" style="background: rgba(0,255,255,0.1); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(0,255,255,0.3); color: #00FFFF; text-decoration: none; margin-right: 10px; font-size: 0.9em; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">🇺🇸 English</a>
-    <span style="background: rgba(255,107,107,0.2); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,107,107,0.5); color: #FF6B6B; font-size: 0.9em; box-shadow: 0 0 10px rgba(255,107,107,0.3);">🇨🇳 中文</span>
+<!-- 语言选择 -->
+<p align="right" style="margin-bottom: 30px;">
+  <a href="https://www.hehouhui.cn/about.html?lang=cn " style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">关于我</a> |
+  <a href="README.md" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇺🇸 English</a> | 
+  <a href="#" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇨🇳 中文</a>
+</p>
+
+<!-- 个人标识 -->
+<h1 style="font-weight: 300; letter-spacing: 3px; margin: 0; font-size: 2.5em; color: #ECF0F1;">Honesty</h1>
+<h3 style="font-weight: 300; color: #AEB6BF; margin: 8px 0; font-size: 1.2em;">Java 后端与 AI Agent 开发者</h3>
+<p style="color: #85929E; font-size: 0.95em; letter-spacing: 1px;">中国·上海 🇨🇳 • INFJ - 提倡者</p>
+
+<!-- 理念分割线 -->
+<div style="width: 80px; height: 2px; background: linear-gradient(90deg, #5DADE2, #48C9B9); margin: 30px auto;"></div>
+
+<blockquote style="max-width: 600px; margin: 40px auto; border-left: none; font-style: italic; color: #ABB2B9; font-weight: 300; font-size: 1.1em; line-height: 1.6;">
+  "优雅的代码超越语法——它是逻辑、目标与永恒简洁性的深思熟虑的编排。"
+</blockquote>
+
+</div>
+
+## 🌟 专业核心
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
+
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(93, 173, 226, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #5DADE2; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">后端</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Java</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">WebFlux</span>
+      <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring Cloud</span>
+    </div>
   </div>
 
-  <div style="position: relative; z-index: 2;">
-    <!-- Main Header -->
-    <h1 style="color: #00FFFF; margin-bottom: 10px; text-shadow: 0 0 20px #00FFFF; font-size: 3em; font-family: 'Orbitron', monospace;">Honesty's Profile</h1>
-    <h2 style="color: #FF6B6B; margin-bottom: 20px; text-shadow: 0 0 15px #FF6B6B; font-size: 1.5em; font-family: 'Orbitron', monospace;">🚀 Java开发者 & AI技术探索者</h2>
-    <!-- MBTI Card -->
-    <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2); margin-bottom: 20px;">
-      <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">🧠 MBTI: INTJ-A (建筑师)</h3>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; text-align: left;">
-        <div style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3);">
-          <strong style="color: #9B59B6;">🎯 性格特质:</strong><br>
-          <span style="color: #FFF; font-size: 0.9em;">战略思维 | 独立自主 | 追求完美</span>
-        </div>
-        <div style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3);">
-          <strong style="color: #9B59B6;">💻 编程哲学:</strong><br>
-          <span style="color: #FFF; font-size: 0.9em;">优雅代码 | 系统架构 | 持续优化</span>
-        </div>
-      </div>
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(72, 201, 185, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #48C9B9; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">前端</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">React</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Vue.js</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">TypeScript</span>
+      <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Next.js</span>
     </div>
-    <!-- Quick Stats -->
-    <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,255,255,0.2); margin-bottom: 20px;">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center;">
-        <div style="background: rgba(0,255,255,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(0,255,255,0.3);">
-          <div style="color: #00FFFF; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #00FFFF;">5+</div>
-          <div style="color: #FFF; font-size: 0.9em;">年开发经验</div>
-        </div>
-        <div style="background: rgba(255,107,107,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(255,107,107,0.3);">
-          <div style="color: #FF6B6B; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #FF6B6B;">10+</div>
-          <div style="color: #FFF; font-size: 0.9em;">技术栈</div>
-        </div>
-        <div style="background: rgba(155,89,182,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(155,89,182,0.3);">
-          <div style="color: #9B59B6; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">INTJ</div>
-          <div style="color: #FFF; font-size: 0.9em;">性格类型</div>
-        </div>
-        <div style="background: rgba(243,156,18,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(243,156,18,0.3);">
-          <div style="color: #F39C12; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #F39C12;">AI</div>
-          <div style="color: #FFF; font-size: 0.9em;">当前专注</div>
-        </div>
-      </div>
+  </div>
+
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(155, 89, 182, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #BB8FCE; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">智能</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">LLM Integration</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">TensorFlow</span>
+      <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">PyTorch</span>
+    </div>
+  </div>
+
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(230, 126, 34, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #F39C12; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">数据与存储</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">PostgreSQL</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Redis</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Elasticsearch</span>
+      <span style="background: rgba(230, 126, 34, 0.08); padding: 6px 14px; border-radius: 18px; color: #F8C471; font-size: 0.85em; border: 1px solid rgba(230, 126, 34, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">MongoDB</span>
+    </div>
+  </div>
+
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(52, 152, 219, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #3498DB; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">消息与事件</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Apache Kafka</span>
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">RabbitMQ</span>
+      <span style="background: rgba(52, 152, 219, 0.08); padding: 6px 14px; border-radius: 18px; color: #85C1E9; font-size: 0.85em; border: 1px solid rgba(52, 152, 219, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">RocketMQ</span>
+    </div>
+  </div>
+
+  <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(39, 174, 96, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+    <h5 style="margin: 0 0 15px; color: #2ECC71; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">基础设施与云</h5>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Docker</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Kubernetes</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">AWS</span>
+      <span style="background: rgba(39, 174, 96, 0.08); padding: 6px 14px; border-radius: 18px; color: #82E0AA; font-size: 0.85em; border: 1px solid rgba(39, 174, 96, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Alibaba Cloud</span>
     </div>
   </div>
 </div>
+---
 
-<!-- Developer Profile Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255,107,107,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(255,107,107,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,107,107,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+## 📊 职业经历
 
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 0 20px #FF6B6B; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">👨‍💻 开发者档案</h2>
-    <div style="background: rgba(0,0,0,0.6); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-      <pre style="color: #00FFFF; font-family: 'Fira Code', 'Courier New', monospace; font-size: 0.9em; line-height: 1.6; margin: 0; text-shadow: 0 0 10px #00FFFF;">
-        <code>
-            interface Developer {
-            name: string;
-            role: string;
-            location: string;
-            experience: number;
-            languages: string[];
-            currentFocus: string[];
-            philosophy: string;
-            };
-            const Honesty: Developer = {
-                name: "Honesty",
-                role: "Java开发者 & AI技术探索者",
-                location: "中国",
-                experience: 7+,
-                languages: ["Java", "TypeScript", "Python", "JavaScript"],
-                currentFocus: ["Spring AI", "微服务架构", "云原生技术"],
-                philosophy: "代码是用逻辑写成的诗"
-            };
-        </code>
-      </pre>
+<div align="center">
+    <table style="border-collapse: collapse; border-spacing: 0;">
+      <tr>
+        <td style="padding: 15px;">
+          <img src="https://img.shields.io/badge/Experience-7%2B%20Years-5DADE2?style=flat-square&logo=java&logoColor=white&labelColor=2C3E50 " />
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://img.shields.io/badge/Technologies-20%2B-48C9B9?style=flat-square&logo=stackshare&logoColor=white&labelColor=2C3E50 " />
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://img.shields.io/badge/Archetype-INFJ%20Advocate-EC7063?style=flat-square&logo=16personalities&logoColor=white&labelColor=2C3E50 " />
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://img.shields.io/badge/Learning-%E2%88%9E%20Infinity-58D68D?style=flat-square&logo=learnedit&logoColor=white&labelColor=2C3E50 " />
+        </td>
+      </tr>
+    </table>
+</div>
+---
+
+## 🎓 成长轨迹
+
+### 📖 基础与精通过渡期 (2019-2022)
+- **核心工程原则**：面向对象精通、算法思维、设计模式
+- **全栈架构设计**：RESTful 设计、响应式界面、状态管理
+- **数据工程**：事务完整性、缓存策略、NoSQL 范式
+- **专业工作流**：Git 熟练度、容器基础、CI/CD 原则
+
+### 🚀 智能优先架构期 (2023-至今)
+
+*🌊 响应式与并发系统*
+- **WebFlux 与 Project Reactor**：非阻塞 I/O、背压管理、响应式流
+- **事件驱动架构**：Kafka 事件溯源、CQRS 模式、最终一致性
+- **弹性工程**：熔断器、限流、分布式事务
+
+*🧠 人工智能集成*
+- **Spring AI 框架**：生产级 LLM 编排、提示工程
+- **向量智能**：FAISS 集成、语义嵌入、RAG 管道
+- **MLOps**：模型版本管理、A/B 实验、可观测性
+
+*☁️ 云原生进阶*
+- **Kubernetes 精通**：Operator、服务网格、高级调度
+- **微服务架构**：DDD 实现、API 网关、分布式链路追踪
+- **可观测性**：Prometheus 监控、Grafana 仪表盘、ELK 技术栈
+
+---
+
+## 🛠️ 技术图谱
+
+**架构语言**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2C3E50 " />
+</span>
+
+**框架生态**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/WebFlux_Reactive-6DB33F?style=flat-square&logo=reactivex&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=2C3E50 " />
+</span>
+
+**基础设施与运维**
+<span style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=2C3E50 " />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2C3E50 " />
+</span>
+
+---
+
+## 📈 开发矩阵
+
+<div align="center" style="margin: 30px 0;">
+    <!-- GitHub 分析 -->
+    <table style="border-collapse: collapse; max-width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=5DADE2&text_color=95A5A6&icon_color=5DADE2 " alt="GitHub Stats" style="max-width: 100%;" />
+        </td>
+        <td style="padding: 10px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=48C9B9&text_color=95A5A6 " alt="Top Languages" style="max-width: 100%;" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding: 15px;">
+          <img src="https://streak-stats.demolab.com?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DADE2&ring=5DADE2&fire=EC7063&currStreakLabel=5DADE2 " alt="GitHub Streak" style="max-width: 100%;" />
+        </td>
+      </tr>
+    </table>
+    <!-- 贡献可视化 -->
+    <picture style="display: block; margin: 20px 0;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg ">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake.svg ">
+      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg " style="width: 100%; max-width: 800px; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));" />
+    </picture>
+    <!-- 活跃图表 -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=5DADE2&line=5DADE2&point=95A5A6&area=true&hide_border=true " alt="Activity Graph" style="width: 100%; max-width: 1000px; margin: 20px 0;" />
+    <!-- 成就 -->
+    <div style="margin-top: 30px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7 " alt="GitHub Trophies" />
     </div>
-  </div>
 </div>
 
-<!-- Learning Journey Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+---
 
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🚀 学习历程</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
-      <!-- Foundation Phase -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,255,255,0.2);">
-        <h3 style="color: #00FFFF; margin-bottom: 15px; text-shadow: 0 0 15px #00FFFF; font-family: 'Orbitron', monospace;">🌱 基础阶段 (2019-2021)</h3>
-        <div style="margin-bottom: 12px;">
-          <h4 style="color: #FF6B6B; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #FF6B6B;">💻 核心技术:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">Java 基础与进阶</div>
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">Spring Framework</div>
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">MySQL 数据库</div>
-          </div>
-        </div>
-        <div>
-          <h4 style="color: #9B59B6; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #9B59B6;">🎯 学习重点:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(155,89,182,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(155,89,182,0.3); color: #FFF; font-size: 0.8em;">编程思维建立</div>
-            <div style="background: rgba(155,89,182,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(155,89,182,0.3); color: #FFF; font-size: 0.8em;">算法与数据结构</div>
-            <div style="background: rgba(155,89,182,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(155,89,182,0.3); color: #FFF; font-size: 0.8em;">Web开发基础</div>
-          </div>
-        </div>
-      </div>
-      <!-- Growth Phase -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">📈 成长阶段 (2021-2023)</h3>
-        <div style="margin-bottom: 12px;">
-          <h4 style="color: #00FFFF; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #00FFFF;">🚀 技术扩展:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">Spring Boot 生态</div>
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">前端技术栈</div>
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">分布式系统</div>
-          </div>
-        </div>
-        <div>
-          <h4 style="color: #F39C12; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #F39C12;">🛠️ 实践项目:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">企业级应用开发</div>
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">微服务架构实践</div>
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">Redis 缓存优化</div>
-          </div>
-        </div>
-      </div>
-      <!-- Advanced Phase -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">⚡ 进阶阶段 (2023-至今)</h3>
-        <div style="margin-bottom: 12px;">
-          <h4 style="color: #00FFFF; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #00FFFF;">🔄 高并发与性能:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">WebFlux 响应式编程</div>
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">消息队列架构</div>
-            <div style="background: rgba(0,255,255,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; font-size: 0.8em;">负载均衡策略</div>
-          </div>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <h4 style="color: #FF6B6B; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #FF6B6B;">🧠 AI 技术集成:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">Spring AI 框架</div>
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">大语言模型集成</div>
-            <div style="background: rgba(255,107,107,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; font-size: 0.8em;">机器学习管道</div>
-          </div>
-        </div>
-        <div>
-          <h4 style="color: #F39C12; margin-bottom: 8px; font-size: 0.9em; text-shadow: 0 0 10px #F39C12;">☁️ 云原生架构:</h4>
-          <div style="display: flex; flex-direction: column; gap: 4px;">
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">Kubernetes 容器编排</div>
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">微服务治理</div>
-            <div style="background: rgba(243,156,18,0.1); padding: 6px 10px; border-radius: 6px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.8em;">服务网格技术</div>
-          </div>
-        </div>
-      </div>
-      <!-- Future Goals -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(243,156,18,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(243,156,18,0.2);">
-        <h3 style="color: #F39C12; margin-bottom: 15px; text-shadow: 0 0 15px #F39C12; font-family: 'Orbitron', monospace;">🎯 未来目标</h3>
-        <div style="display: flex; flex-direction: column; gap: 8px;">
-          <div style="background: rgba(243,156,18,0.1); padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.9em;">🔒 高级网络安全</div>
-          <div style="background: rgba(243,156,18,0.1); padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.9em;">🌐 边缘计算技术</div>
-          <div style="background: rgba(243,156,18,0.1); padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(243,156,18,0.3); color: #FFF; font-size: 0.9em;">🤖 通用人工智能集成</div>
-        </div>
-      </div>
-    </div>
-  </div>
+## 📝 最新文章
+
+<!-- BLOG-POST-LIST:START -->
+- ["关于我"页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey )
+- [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw )
+- [Faiss vector database 深度学习指南：从背景到架构&amp;算法&amp;安装 —— 向量检索核心算法（IVF-PQ/HNSW）解析、CPU/GPU 加速优化、索引构建与持久化、动态数据处理方案](https://blog.hehouhui.cn/archives/faiss-deep-learning-guide-vector-search-algorithm-cpu-gpu-optimization-index-building-industrial-practice-rag )
+- [从规范到架构：一篇读懂 Java 工程建模、分层、命名与演进之路](https://blog.hehouhui.cn/archives/scalable-java-architecture-from-monolith-to-microservices )
+- [Spring Bean 源码深度剖析：生命周期、加载机制与作用域的底层实现](https://blog.hehouhui.cn/archives/spring-bean-lifecycle-loading-mechanism-scope-implementation )
+- [Spring Boot项目启动优化](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26 )
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center" style="margin-top: 25px;">
+  <a href="https://blog.hehouhui.cn " style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 1px solid #5DADE2; border-radius: 25px; color: #5DADE2; transition: all 0.3s ease; font-weight: 300;">
+    探索更多文章 →
+  </a>
 </div>
 
-<!-- Tech Arsenal Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+---
 
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #00FFFF; margin-bottom: 25px; text-shadow: 0 0 20px #00FFFF; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🛠️ 技术武器库</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
-      <!-- Programming Languages -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(237,139,0,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(237,139,0,0.2);">
-        <h3 style="color: #ED8B00; margin-bottom: 15px; text-shadow: 0 0 15px #ED8B00; font-family: 'Orbitron', monospace;">💻 编程语言</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="border-radius: 5px; box-shadow: 0 0 10px rgba(237,139,0,0.3);" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,122,204,0.3);" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 5px; box-shadow: 0 0 10px rgba(247,223,30,0.3);" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 5px; box-shadow: 0 0 10px rgba(55,118,171,0.3);" />
-        </div>
-      </div>
-      <!-- Frameworks & Libraries -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(109,179,63,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(109,179,63,0.2);">
-        <h3 style="color: #6DB33F; margin-bottom: 15px; text-shadow: 0 0 15px #6DB33F; font-family: 'Orbitron', monospace;">🚀 框架与库</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" style="border-radius: 5px; box-shadow: 0 0 10px rgba(109,179,63,0.3);" />
-          <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" style="border-radius: 5px; box-shadow: 0 0 10px rgba(109,179,63,0.3);" />
-          <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="WebFlux" style="border-radius: 5px; box-shadow: 0 0 10px rgba(109,179,63,0.3);" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 5px; box-shadow: 0 0 10px rgba(97,218,251,0.3);" />
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="border-radius: 5px; box-shadow: 0 0 10px rgba(79,192,141,0.3);" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.3);" />
-        </div>
-      </div>
-      <!-- Databases & Storage -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">🗄️ 数据库与存储</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 5px; box-shadow: 0 0 10px rgba(49,97,146,0.3);" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="border-radius: 5px; box-shadow: 0 0 10px rgba(220,56,45,0.3);" />
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.3);" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 5px; box-shadow: 0 0 10px rgba(78,169,75,0.3);" />
-          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,85,113,0.3);" />
-        </div>
-      </div>
-      <!-- Message Queues -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,215,0,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,215,0,0.2);">
-        <h3 style="color: #FFD700; margin-bottom: 15px; text-shadow: 0 0 15px #FFD700; font-family: 'Orbitron', monospace;">📨 消息队列</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.3);" />
-          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,102,0,0.3);" />
-          <img src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=apache-rocketmq&logoColor=white" alt="RocketMQ" style="border-radius: 5px; box-shadow: 0 0 10px rgba(215,115,16,0.3);" />
-        </div>
-      </div>
-      <!-- AI/ML Tools -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,20,147,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,20,147,0.2);">
-        <h3 style="color: #FF1493; margin-bottom: 15px; text-shadow: 0 0 15px #FF1493; font-family: 'Orbitron', monospace;">🤖 AI/ML工具</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,111,0,0.3);" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="border-radius: 5px; box-shadow: 0 0 10px rgba(238,76,44,0.3);" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="border-radius: 5px; box-shadow: 0 0 10px rgba(65,41,145,0.3);" />
-          <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,210,30,0.3);" />
-        </div>
-      </div>
-      <!-- DevOps & Cloud -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,191,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,191,255,0.2);">
-        <h3 style="color: #00BFFF; margin-bottom: 15px; text-shadow: 0 0 15px #00BFFF; font-family: 'Orbitron', monospace;">☁️ DevOps与云服务</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="border-radius: 5px; box-shadow: 0 0 10px rgba(36,150,237,0.3);" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 5px; box-shadow: 0 0 10px rgba(50,108,229,0.3);" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" style="border-radius: 5px; box-shadow: 0 0 10px rgba(35,47,62,0.3);" />
-          <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="阿里云" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255,106,0,0.3);" />
-        </div>
-      </div>
-    </div>
-  </div>
+## 🌐 网络平台
+
+<div align="center" style="margin: 30px 0;">
+
+  <a href="https://blog.hehouhui.cn " style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Blog-EC7063?style=flat-square&logo=hashnode&logoColor=white&labelColor=2C3E50 " />
+  </a>
+  <a href="https://github.com/listener-He " style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&labelColor=2C3E50 " />
+  </a>
+  <a href="https://twitter.com/honesty861024 " style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=2C3E50 " />
+  </a>
+  <a href="https://linkedin.com/in/honesty861024 " style="margin: 0 12px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=2C3E50 " />
+  </a>
 </div>
 
-<!-- GitHub Analytics Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255,107,107,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(255,107,107,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,107,107,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+<p align="center" style="margin-top: 25px;">
+  <img src="./images/mp-honesy.jpg" alt="微信公众号" width="150" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.2); filter: brightness(0.95);" />
+  <br/>
+  <span style="color: #7F8C8D; font-size: 0.85em; font-style: italic;">扫码关注微信公众号</span>
+</p>
 
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 0 20px #FF6B6B; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">📊 GitHub 数据分析</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; text-align: center;">
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">📈 贡献统计</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=FFFFFF&icon_color=00ffff" alt="GitHub Stats" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">🔥 连击统计</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=ff6b6b&ring=00ffff&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2); grid-column: 1 / -1;">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">💻 语言分布</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=FFFFFF" alt="Top Languages" style="width: 100%; max-width: 500px; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2); grid-column: 1 / -1;">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">🏆 GitHub 奖杯</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2); grid-column: 1 / -1;">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">🐍 贡献蛇</h3>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-        </picture>
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2); grid-column: 1 / -1;">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">📈 活动图表</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(255,107,107,0.3);" />
-      </div>
-    </div>
-  </div>
+---
+
+## 💭 沉思
+
+<blockquote style="max-width: 700px; margin: 40px auto; border-left: 4px solid #9B59B6; padding-left: 25px; font-style: italic; color: #95A5A6; font-weight: 300; font-size: 1.05em; line-height: 1.7;">
+  "最深刻的架构诞生于深厚技术功底与直观人文理解的静谧交汇处。"
+</blockquote>
+
+---
+
+<div align="center" style="margin: 50px 0 30px 0;">
+
+  <p style="color: #85929E; font-size: 0.9em; font-weight: 300; letter-spacing: 1px;">
+    以优雅代码与精妙架构塑造未来
+  </p>
+
+  <p style="color: #AAB7B8; font-size: 0.75em; margin-top: 15px;">
+    感谢您的访问 • Thank you for visiting my digital atelier
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26 ,32,44&height=100&section=footer&text=Keep%20Building&fontSize=40&fontColor=5DADE2&animation=twinkling" alt="Footer" style="margin-top: 25px; max-width: 100%;" />
+
 </div>
 
-<!-- Contact Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
-
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🌐 联系我</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; text-align: center;">
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">📱 微信公众号</h3>
-        <img src="./images/mp-honesy.jpg" alt="WeChat QR Code" style="width: 150px; height: 150px; border-radius: 10px; box-shadow: 0 0 15px rgba(155,89,182,0.3); border: 2px solid rgba(155,89,182,0.3);" />
-        <p style="color: #AAA; margin-top: 10px; font-size: 0.9em;">扫码关注公众号</p>
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">🌐 博客</h3>
-        <div style="background: rgba(155,89,182,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(155,89,182,0.3); margin-bottom: 15px;">
-          <a href="https://blog.hehouhui.cn" target="_blank" style="color: #9B59B6; text-decoration: none; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">blog.hehouhui.cn</a>
-        </div>
-        <p style="color: #AAA; font-size: 0.9em;">查看我的最新文章</p>
-      </div>
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">🔗 社交链接</h3>
-        <div style="display: flex; flex-direction: column; gap: 10px;">
-          <a href="https://github.com/listener-He" target="_blank" style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3); color: #9B59B6; text-decoration: none; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">GitHub</a>
-          <a href="https://twitter.com/honesty861024" target="_blank" style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3); color: #9B59B6; text-decoration: none; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">Twitter</a>
-          <a href="https://linkedin.com/in/honesty861024" target="_blank" style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3); color: #9B59B6; text-decoration: none; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">LinkedIn</a>
-        </div>
-      </div>
-    </div>
-    <div style="text-align: center; margin-top: 20px;">
-      <img src="https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,255,255,0.3);" />
-    </div>
-  </div>
-</div>
-
-<!-- Latest Blog Posts Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
-
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #00FFFF; margin-bottom: 25px; text-shadow: 0 0 20px #00FFFF; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">📝 最新博客文章</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
-      <!-- Recent Articles -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,255,255,0.2);">
-        <h3 style="color: #00FFFF; margin-bottom: 15px; text-shadow: 0 0 15px #00FFFF; font-family: 'Orbitron', monospace;">📚 最新技术文档</h3>
-        <div style="display: flex; flex-direction: column; gap: 12px;">
-          <a href="https://blog.hehouhui.cn/archives/java-nio-buffer" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(0,255,255,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">
-              <div style="color: #00FFFF; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #00FFFF;">☕ Java IO — NIO Buffer</div>
-              <div style="color: #AAA; font-size: 0.8em;">深入理解NIO Buffer机制与应用</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/java-nio-channel" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(0,255,255,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">
-              <div style="color: #00FFFF; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #00FFFF;">🔄 Java IO — NIO Channel</div>
-              <div style="color: #AAA; font-size: 0.8em;">NIO Channel通道编程详解</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/java-io-nio-basic" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(0,255,255,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">
-              <div style="color: #00FFFF; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #00FFFF;">⚡ Java IO — IO/NIO模型</div>
-              <div style="color: #AAA; font-size: 0.8em;">IO与NIO模型对比分析</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/elasticsearch-mapping-index" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(0,255,255,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0,255,255,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">
-              <div style="color: #00FFFF; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #00FFFF;">🔍 Elasticsearch — 索引（Mapping Index）</div>
-              <div style="color: #AAA; font-size: 0.8em;">Elasticsearch索引映射与优化</div>
-            </div>
-          </a>
-        </div>
-      </div>
-      <!-- Popular Topics -->
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-shadow: 0 0 15px #FF6B6B; font-family: 'Orbitron', monospace;">🔥 热门技术栈</h3>
-        <div style="display: flex; flex-direction: column; gap: 12px;">
-          <a href="https://blog.hehouhui.cn/archives/elasticsearch-data-sync" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🔄 Elasticsearch — 数据存储与一致性</div>
-              <div style="color: #AAA; font-size: 0.8em;">分布式搜索引擎数据同步策略</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/java-sync-introduce-1104" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">⚡ Java异步编程方式介绍</div>
-              <div style="color: #AAA; font-size: 0.8em;">Java异步编程模式与实践</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/spring-ai-integration" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🤖 Spring AI 集成实战</div>
-              <div style="color: #AAA; font-size: 0.8em;">AI应用开发实践指南</div>
-            </div>
-          </a>
-          <a href="https://blog.hehouhui.cn/archives/microservices-architecture-design" target="_blank" style="text-decoration: none;">
-            <div style="background: rgba(255,107,107,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,107,107,0.3); color: #FFF; transition: all 0.3s; box-shadow: 0 0 10px rgba(255,107,107,0.2);">
-              <div style="color: #FF6B6B; font-weight: bold; margin-bottom: 4px; text-shadow: 0 0 10px #FF6B6B;">🚀 微服务架构设计</div>
-              <div style="color: #AAA; font-size: 0.8em;">企业级微服务架构实践</div>
-            </div>
-          </a>
-        </div>
-        <div style="text-align: center; margin-top: 15px;">
-          <a href="https://blog.hehouhui.cn" target="_blank" style="background: rgba(255,107,107,0.1); padding: 12px 24px; border-radius: 25px; border: 2px solid rgba(255,107,107,0.3); color: #FF6B6B; text-decoration: none; font-weight: bold; box-shadow: 0 0 15px rgba(255,107,107,0.2); text-shadow: 0 0 10px #FF6B6B;">📖 阅读更多文章</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Random Dev Quote Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
-
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">💭 开发者名言</h2>
-    <div style="text-align: center;">
-      <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2); margin-bottom: 20px;">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" style="width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(155,89,182,0.3);" />
-      </div>
-      <div style="background: rgba(155,89,182,0.1); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
-        <p style="color: #9B59B6; font-size: 1.2em; font-style: italic; margin: 0; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">"预测未来的最好方法就是创造未来。"</p>
-        <p style="color: #AAA; font-size: 0.9em; margin-top: 10px;">— 代码是用逻辑写成的诗</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Footer Section -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
-
-  <div style="position: relative; z-index: 2; text-align: center;">
-    <h2 style="color: #00FFFF; margin-bottom: 25px; text-shadow: 0 0 20px #00FFFF; font-size: 2em; font-family: 'Orbitron', monospace;">感谢访问！</h2>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=00FFFF&animation=twinkling" alt="Happy Coding" style="width: 100%; border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,255,0.3); border: 1px solid rgba(0,255,255,0.2); margin-bottom: 20px;" />
-    <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,255,255,0.2); margin-bottom: 20px;">
-      <p style="color: #00FFFF; font-size: 1.2em; font-style: italic; margin: 0; text-shadow: 0 0 15px #00FFFF; font-family: 'Orbitron', monospace;">"代码是用逻辑写成的诗"</p>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-      <div style="background: rgba(255,107,107,0.1); padding: 12px 20px; border-radius: 25px; border: 2px solid rgba(255,107,107,0.3); color: #FF6B6B; font-weight: bold; box-shadow: 0 0 15px rgba(255,107,107,0.2); text-shadow: 0 0 10px #FF6B6B;">Always Learning</div>
-      <div style="background: rgba(0,255,255,0.1); padding: 12px 20px; border-radius: 25px; border: 2px solid rgba(0,255,255,0.3); color: #00FFFF; font-weight: bold; box-shadow: 0 0 15px rgba(0,255,255,0.2); text-shadow: 0 0 10px #00FFFF;">Always Creating</div>
-      <div style="background: rgba(155,89,182,0.1); padding: 12px 20px; border-radius: 25px; border: 2px solid rgba(155,89,182,0.3); color: #9B59B6; font-weight: bold; box-shadow: 0 0 15px rgba(155,89,182,0.2); text-shadow: 0 0 10px #9B59B6;">Always Sharing</div>
-    </div>
-    <p style="color: #AAA; font-size: 1em; margin: 0; text-shadow: 0 0 10px rgba(255,255,255,0.3);">用今天的技术构建明天的解决方案</p>
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=listener-He&label=Profile%20Views&color=5DADE2&style=flat-square&labelColor=2C3E50 " alt="Profile Views" />
+</p>
