@@ -169,12 +169,14 @@ interface Developer {
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF)
-
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF)
 ## 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
