@@ -1,69 +1,82 @@
 <div align="center" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); margin-bottom: 20px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
 
-  <div style="position: absolute; top: 20px; right: 20px; z-index: 3;">
-    <a href="./README.md" style="color: #00FFFF; text-decoration: none; margin: 0 5px; padding: 8px 16px; border: 1px solid #00FFFF; border-radius: 20px; background: rgba(0,255,255,0.15); transition: all 0.3s; box-shadow: 0 0 15px rgba(0,255,255,0.3); font-weight: bold;">🇺🇸 English</a>
-    <a href="README_CN.md" style="color: #FF6B6B; text-decoration: none; margin: 0 5px; padding: 8px 16px; border: 1px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.15); transition: all 0.3s; box-shadow: 0 0 15px rgba(255,107,107,0.3); font-weight: bold;">🇨🇳 中文</a>
+  <!-- Language Switcher -->
+  <div style="position: relative; z-index: 2; text-align: right; margin-bottom: 20px;">
+    <a href="./README.md" style="background: rgba(0,255,255,0.1); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(0,255,255,0.3); color: #00FFFF; text-decoration: none; margin-right: 10px; font-size: 0.9em; transition: all 0.3s; box-shadow: 0 0 10px rgba(0,255,255,0.2);">🇺🇸 English</a>
+    <span style="background: rgba(255,107,107,0.2); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,107,107,0.5); color: #FF6B6B; font-size: 0.9em; box-shadow: 0 0 10px rgba(255,107,107,0.3);">🇨🇳 中文</span>
   </div>
+
   <div style="position: relative; z-index: 2;">
-    <h1 style="color: #00FFFF; margin-bottom: 10px; text-shadow: 0 0 25px #00FFFF, 0 0 40px #00FFFF; font-size: 3em; font-family: 'Orbitron', monospace; letter-spacing: 2px;">Honesty</h1>
-    <h2 style="color: #FF6B6B; margin-bottom: 20px; text-shadow: 0 0 20px #FF6B6B; font-size: 1.6em; font-family: 'Orbitron', monospace;">🚀 Java开发者 & AI技术探索者</h2>
-    <div style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <div style="background: rgba(0,255,255,0.15); padding: 8px 20px; border-radius: 20px; border: 1px solid rgba(0,255,255,0.4); color: #00FFFF; font-weight: bold; box-shadow: 0 0 15px rgba(0,255,255,0.3); text-shadow: 0 0 10px #00FFFF; backdrop-filter: blur(5px);">🤖 AI 技术专家</div>
-      <div style="background: rgba(255,107,107,0.15); padding: 8px 20px; border-radius: 20px; border: 1px solid rgba(255,107,107,0.4); color: #FF6B6B; font-weight: bold; box-shadow: 0 0 15px rgba(255,107,107,0.3); text-shadow: 0 0 10px #FF6B6B; backdrop-filter: blur(5px);">💻 全栈工程师</div>
-      <div style="background: rgba(155,89,182,0.15); padding: 8px 20px; border-radius: 20px; border: 1px solid rgba(155,89,182,0.4); color: #9B59B6; font-weight: bold; box-shadow: 0 0 15px rgba(155,89,182,0.3); text-shadow: 0 0 10px #9B59B6; backdrop-filter: blur(5px);">☁️ 云原生开发者</div>
+    <!-- Main Header -->
+    <h1 style="color: #00FFFF; margin-bottom: 10px; text-shadow: 0 0 20px #00FFFF; font-size: 3em; font-family: 'Orbitron', monospace;">Honesty's Profile</h1>
+    <h2 style="color: #FF6B6B; margin-bottom: 20px; text-shadow: 0 0 15px #FF6B6B; font-size: 1.5em; font-family: 'Orbitron', monospace;">🚀 Java开发者 & AI技术探索者</h2>
+    <!-- MBTI Card -->
+    <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2); margin-bottom: 20px;">
+      <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">🧠 MBTI: INTJ-A (建筑师)</h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; text-align: left;">
+        <div style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3);">
+          <strong style="color: #9B59B6;">🎯 性格特质:</strong><br>
+          <span style="color: #FFF; font-size: 0.9em;">战略思维 | 独立自主 | 追求完美</span>
+        </div>
+        <div style="background: rgba(155,89,182,0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(155,89,182,0.3);">
+          <strong style="color: #9B59B6;">💻 编程哲学:</strong><br>
+          <span style="color: #FFF; font-size: 0.9em;">优雅代码 | 系统架构 | 持续优化</span>
+        </div>
+      </div>
     </div>
-    <div style="background: rgba(0,0,0,0.6); padding: 25px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,255,0.2); margin: 30px 0;">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; text-align: center;">
-        <div style="background: rgba(0,255,255,0.15); padding: 20px; border-radius: 15px; border: 1px solid rgba(0,255,255,0.4); box-shadow: 0 0 15px rgba(0,255,255,0.3); transition: all 0.3s;">
-          <div style="color: #00FFFF; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 15px #00FFFF;">5+</div>
-          <div style="color: #FFF; font-size: 1em; margin-top: 5px;">年开发经验</div>
+    <!-- Quick Stats -->
+    <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,255,255,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(0,255,255,0.2); margin-bottom: 20px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center;">
+        <div style="background: rgba(0,255,255,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(0,255,255,0.3);">
+          <div style="color: #00FFFF; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #00FFFF;">5+</div>
+          <div style="color: #FFF; font-size: 0.9em;">年开发经验</div>
         </div>
-        <div style="background: rgba(255,107,107,0.15); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,107,107,0.4); box-shadow: 0 0 15px rgba(255,107,107,0.3); transition: all 0.3s;">
-          <div style="color: #FF6B6B; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 15px #FF6B6B;">10+</div>
-          <div style="color: #FFF; font-size: 1em; margin-top: 5px;">技术栈</div>
+        <div style="background: rgba(255,107,107,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(255,107,107,0.3);">
+          <div style="color: #FF6B6B; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #FF6B6B;">10+</div>
+          <div style="color: #FFF; font-size: 0.9em;">技术栈</div>
         </div>
-        <div style="background: rgba(155,89,182,0.15); padding: 20px; border-radius: 15px; border: 1px solid rgba(155,89,182,0.4); box-shadow: 0 0 15px rgba(155,89,182,0.3); transition: all 0.3s;">
-          <div style="color: #9B59B6; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 15px #9B59B6;">INTJ</div>
-          <div style="color: #FFF; font-size: 1em; margin-top: 5px;">性格类型</div>
+        <div style="background: rgba(155,89,182,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(155,89,182,0.3);">
+          <div style="color: #9B59B6; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #9B59B6;">INTJ</div>
+          <div style="color: #FFF; font-size: 0.9em;">性格类型</div>
         </div>
-        <div style="background: rgba(243,156,18,0.15); padding: 20px; border-radius: 15px; border: 1px solid rgba(243,156,18,0.4); box-shadow: 0 0 15px rgba(243,156,18,0.3); transition: all 0.3s;">
-          <div style="color: #F39C12; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 15px #F39C12;">AI</div>
-          <div style="color: #FFF; font-size: 1em; margin-top: 5px;">当前专注</div>
+        <div style="background: rgba(243,156,18,0.1); padding: 15px; border-radius: 10px; border: 1px solid rgba(243,156,18,0.3);">
+          <div style="color: #F39C12; font-size: 2em; font-weight: bold; text-shadow: 0 0 10px #F39C12;">AI</div>
+          <div style="color: #FFF; font-size: 0.9em;">当前专注</div>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-
 <!-- Developer Profile Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255,107,107,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(255,107,107,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,107,107,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 0 20px #FF6B6B; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">👨‍💻 开发者档案</h2>
     <div style="background: rgba(0,0,0,0.6); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,107,107,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
       <pre style="color: #00FFFF; font-family: 'Fira Code', 'Courier New', monospace; font-size: 0.9em; line-height: 1.6; margin: 0; text-shadow: 0 0 10px #00FFFF;">
-            <code>
+        <code>
             interface Developer {
-              name: string;
-              role: string;
-              location: string;
-              experience: number;
-              languages: string[];
-              currentFocus: string[];
-              philosophy: string;
+            name: string;
+            role: string;
+            location: string;
+            experience: number;
+            languages: string[];
+            currentFocus: string[];
+            philosophy: string;
             };
-            const hehouhui: Developer = {
-              name: "何厚辉 (HeHouHui)",
-              role: "全栈开发工程师 & AI技术探索者",
-              location: "中国",
-              experience: 5,
-              languages: ["Java", "TypeScript", "Python", "JavaScript"],
-              currentFocus: ["Spring AI", "微服务架构", "云原生技术"],
-              philosophy: "代码是用逻辑写成的诗"
+            const Honesty: Developer = {
+                name: "Honesty",
+                role: "Java开发者 & AI技术探索者",
+                location: "中国",
+                experience: 7+,
+                languages: ["Java", "TypeScript", "Python", "JavaScript"],
+                currentFocus: ["Spring AI", "微服务架构", "云原生技术"],
+                philosophy: "代码是用逻辑写成的诗"
             };
-            </code>
+        </code>
       </pre>
     </div>
   </div>
@@ -72,6 +85,7 @@
 <!-- Learning Journey Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🚀 学习历程</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
@@ -159,6 +173,7 @@
 <!-- Tech Arsenal Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #00FFFF; margin-bottom: 25px; text-shadow: 0 0 20px #00FFFF; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🛠️ 技术武器库</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
@@ -231,6 +246,7 @@
 <!-- GitHub Analytics Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255,107,107,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(255,107,107,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,107,107,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 0 20px #FF6B6B; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">📊 GitHub 数据分析</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; text-align: center;">
@@ -269,12 +285,13 @@
 <!-- Contact Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">🌐 联系我</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; text-align: center;">
       <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
         <h3 style="color: #9B59B6; margin-bottom: 15px; text-shadow: 0 0 15px #9B59B6; font-family: 'Orbitron', monospace;">📱 微信公众号</h3>
-        <img src="https://blog-file.hehouhui.cn/wechat/mp-honesy.jpg" alt="WeChat QR Code" style="width: 150px; height: 150px; border-radius: 10px; box-shadow: 0 0 15px rgba(155,89,182,0.3); border: 2px solid rgba(155,89,182,0.3);" />
+        <img src="./images/mp-honesy.jpg" alt="WeChat QR Code" style="width: 150px; height: 150px; border-radius: 10px; box-shadow: 0 0 15px rgba(155,89,182,0.3); border: 2px solid rgba(155,89,182,0.3);" />
         <p style="color: #AAA; margin-top: 10px; font-size: 0.9em;">扫码关注公众号</p>
       </div>
       <div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px; border: 2px solid rgba(155,89,182,0.3); backdrop-filter: blur(10px); box-shadow: 0 0 20px rgba(155,89,182,0.2);">
@@ -376,6 +393,7 @@
 <!-- Random Dev Quote Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #9B59B6; box-shadow: 0 0 30px rgba(155,89,182,0.3); margin-bottom: 30px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(155,89,182,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(155,89,182,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #9B59B6; margin-bottom: 25px; text-shadow: 0 0 20px #9B59B6; font-size: 2em; font-family: 'Orbitron', monospace; text-align: center;">💭 开发者名言</h2>
     <div style="text-align: center;">
@@ -393,6 +411,7 @@
 <!-- Footer Section -->
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 30px rgba(0,255,255,0.3); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(0,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,255,0.02) 1px, transparent 1px); background-size: 20px 20px; pointer-events: none;"></div>
+
   <div style="position: relative; z-index: 2; text-align: center;">
     <h2 style="color: #00FFFF; margin-bottom: 25px; text-shadow: 0 0 20px #00FFFF; font-size: 2em; font-family: 'Orbitron', monospace;">感谢访问！</h2>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=00FFFF&animation=twinkling" alt="Happy Coding" style="width: 100%; border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,255,0.3); border: 1px solid rgba(0,255,255,0.2); margin-bottom: 20px;" />
