@@ -3,7 +3,7 @@
 <!-- 语言选择 -->
 <p align="right" style="margin-bottom: 30px;">
   <a href="https://www.hehouhui.cn/about.html?lang=zh " style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">关于我</a> |
-  <a href="README.md" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇺🇸 English</a> | 
+  <a href="README.md" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇺🇸 English</a>
 </p>
 
 <!-- 个人标识 -->
