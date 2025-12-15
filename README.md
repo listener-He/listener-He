@@ -3,7 +3,6 @@
 <!-- Language Selection -->
 <p align="right" style="margin-bottom: 30px;">
   <a href="https://www.hehouhui.cn/about.html?lang=en" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">About Me</a> |
-  <a href="#" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇺🇸 English</a> | 
   <a href="README_CN.md" style="text-decoration: none; color: #5DADE2; font-weight: 300; padding: 5px 10px; border-radius: 15px; transition: background 0.3s;">🇨🇳 中文</a>
 </p>
 
