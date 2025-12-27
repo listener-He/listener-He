@@ -205,12 +205,12 @@
 ## 📝 Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
-- [2025火山引擎FORCE大会·冬 三大核心技术：AI原生时代的底层逻辑与实践路径](https://blog.hehouhui.cn/archives/volcengine-force-2512)
-- [Caffeine AsyncCache：响应式架构下（WebFlux, R2DBC, ReactiveRedis）的缓存实践](https://blog.hehouhui.cn/archives/caffeine-asynccache-reactive-architecture-webflux-r2dbc-redis-practice)
-- [事件驱动：WebFlux、R2DBC，Lettuce Reactive Redis与虚拟线程下的高性能Web项目构建指南](https://blog.hehouhui.cn/archives/webflux-r2dbc-lettuce-virtual-threads-best-practices)
-- [&quot;关于我&quot;页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
-- [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
-- [Spring Boot项目启动优化](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
+- [2025火山引擎FORCE大会·冬 三大核心技术：AI原生时代的底层逻辑与实践路径](https://tangly1024.com/article/volcengine-force-2512)
+- [Caffeine AsyncCache：响应式架构下（WebFlux, R2DBC, ReactiveRedis）的缓存实践](https://tangly1024.com/article/caffeine-asynccache-reactive-architecture-webflux-r2dbc-redis-practice)
+- [事件驱动：WebFlux、R2DBC，Lettuce Reactive Redis与虚拟线程下的高性能Web项目构建指南](https://tangly1024.com/article/webflux-r2dbc-lettuce-virtual-threads-best-practices)
+- [&quot;关于我&quot;页面创作之旅](https://tangly1024.com/article/about-page-creation-100-git-commits-pwa-journey)
+- [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://tangly1024.com/article/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
+- [Spring Boot项目启动优化](https://tangly1024.com/article/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center" style="margin-top: 25px;">
