@@ -167,23 +167,6 @@
 
 <div align="center" style="margin: 30px 0;">
 
-<!-- GitHub Analytics -->
-<table style="border-collapse: collapse; max-width: 100%;">
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=listener-He&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=5DADE2&text_color=95A5A6&icon_color=5DADE2" alt="GitHub Stats" style="max-width: 100%;" />
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=listener-He&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=48C9B9&text_color=95A5A6" alt="Top Languages" style="max-width: 100%;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 15px;">
-      <img src="https://streak-stats.demolab.com?user=listener-He&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DADE2&ring=5DADE2&fire=EC7063&currStreakLabel=5DADE2" alt="GitHub Streak" style="max-width: 100%;" />
-    </td>
-  </tr>
-</table>
-
 <!-- Contribution Visualization -->
 <picture style="display: block; margin: 20px 0;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/listener-He/listener-He/output/github-contribution-grid-snake-dark.svg">
@@ -193,11 +176,6 @@
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=listener-He&theme=tokyo-night&bg_color=0D1117&color=5DADE2&line=5DADE2&point=95A5A6&area=true&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 1000px; margin: 20px 0;" />
-
-<!-- Achievements -->
-<div style="margin-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=listener-He&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 </div>
 
 ---
