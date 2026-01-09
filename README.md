@@ -8,14 +8,14 @@
 
 <!-- Hero Identity -->
 <h1 style="font-weight: 300; letter-spacing: 3px; margin: 0; font-size: 2.5em; color: #ECF0F1;">Honesty</h1>
-<h3 style="font-weight: 300; color: #AEB6BF; margin: 8px 0; font-size: 1.2em;">Java Backend & AI Agent Developer</h3>
+<h3 style="font-weight: 300; color: #AEB6BF; margin: 8px 0; font-size: 1.2em;">Java Backend & AI Engineer</h3>
 <p style="color: #85929E; font-size: 0.95em; letter-spacing: 1px;">Shanghai, China 🇨🇳 • INFJ - The Visionary Advocate</p>
 
 <!-- Philosophy Divider -->
 <div style="width: 80px; height: 2px; background: linear-gradient(90deg, #5DADE2, #48C9B9); margin: 30px auto;"></div>
 
 <blockquote style="max-width: 600px; margin: 40px auto; border-left: none; font-style: italic; color: #ABB2B9; font-weight: 300; font-size: 1.1em; line-height: 1.6;">
-  "Elegant code transcends syntax—it is the deliberate orchestration of logic, purpose, and timeless simplicity."
+  "I prioritize deep architectural mastery over superficial breadth—every line of code is driven by the intrinsic desire to solve real-world problems."
 </blockquote>
 
 </div>
@@ -25,7 +25,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
 
   <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(93, 173, 226, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
-    <h5 style="margin: 0 0 15px; color: #5DADE2; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Backend</h5>
+    <h5 style="margin: 0 0 15px; color: #5DADE2; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Backend Engineering</h5>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
       <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Java</span>
       <span style="background: rgba(93, 173, 226, 0.08); padding: 6px 14px; border-radius: 18px; color: #AED6F1; font-size: 0.85em; border: 1px solid rgba(93, 173, 226, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
@@ -35,7 +35,7 @@
   </div>
 
   <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(72, 201, 185, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
-    <h5 style="margin: 0 0 15px; color: #48C9B9; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Frontend</h5>
+    <h5 style="margin: 0 0 15px; color: #48C9B9; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Frontend & UI</h5>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
       <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">React</span>
       <span style="background: rgba(72, 201, 185, 0.08); padding: 6px 14px; border-radius: 18px; color: #A3E4D7; font-size: 0.85em; border: 1px solid rgba(72, 201, 185, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Vue.js</span>
@@ -45,7 +45,7 @@
   </div>
 
   <div style="padding: 20px; border-radius: 14px; background: rgba(22, 27, 34, 0.4); border: 1px solid rgba(155, 89, 182, 0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
-    <h5 style="margin: 0 0 15px; color: #BB8FCE; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">Intelligence</h5>
+    <h5 style="margin: 0 0 15px; color: #BB8FCE; font-weight: 400; font-size: 1em; letter-spacing: 0.5px; text-transform: uppercase; opacity: 0.8;">AI & Intelligence</h5>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
       <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">Spring AI</span>
       <span style="background: rgba(155, 89, 182, 0.08); padding: 6px 14px; border-radius: 18px; color: #D7BDE2; font-size: 0.85em; border: 1px solid rgba(155, 89, 182, 0.12); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">LLM Integration</span>
@@ -83,7 +83,6 @@
     </div>
   </div>
 </div>
----
 
 ## 📊 Professional Compass
 
@@ -113,27 +112,27 @@
 ## 🎓 Evolutionary Path
 
 ### 📖 Foundation & Mastery Era (2019-2022)
-- **Core Engineering Principles**: Object-oriented mastery, algorithmic thinking, design patterns
-- **Full-Stack Architecture**: RESTful design, responsive interfaces, state management
-- **Data Engineering**: Transactional integrity, caching strategies, NoSQL paradigms
-- **Professional Workflow**: Git proficiency, container fundamentals, CI/CD principles
+- **Core Engineering Principles**: Object-oriented architecture, algorithmic logic, and scalable design patterns.
+- **Full-Stack Architecture**: RESTful API design, responsive interfaces, and state management mastery.
+- **Data Engineering**: Transactional integrity (ACID), caching strategies, and NoSQL paradigm adaptation.
+- **Professional Workflow**: Git proficiency, containerization fundamentals, and CI/CD pipeline integration.
 
 ### 🚀 Intelligence-First Architecture (2023-Present)
 
 *🌊 Reactive & Concurrent Systems*
-- **WebFlux & Project Reactor**: Non-blocking I/O, backpressure management, reactive streams
-- **Event-Driven Architecture**: Kafka event sourcing, CQRS patterns, eventual consistency
-- **Resilience Engineering**: Circuit breakers, rate limiting, distributed sagas
+- **WebFlux & Project Reactor**: Non-blocking I/O, backpressure management, and reactive stream processing.
+- **Event-Driven Architecture**: Kafka event sourcing, CQRS patterns, and eventual consistency models.
+- **Resilience Engineering**: Circuit breakers, adaptive rate limiting, and distributed saga patterns.
 
 *🧠 Artificial Intelligence Integration*
-- **Spring AI Framework**: Production-grade LLM orchestration, prompt engineering
-- **Vector Intelligence**: FAISS integration, semantic embeddings, RAG pipelines
-- **ML Operations**: Model versioning, A/B experimentation, observability
+- **Spring AI Framework**: Production-grade LLM orchestration and prompt engineering.
+- **Vector Intelligence**: FAISS integration, semantic embeddings, and advanced RAG pipelines.
+- **ML Operations**: Model versioning, A/B experimentation, and system observability.
 
 *☁️ Cloud-Native Excellence*
-- **Kubernetes Mastery**: Operators, service meshes, advanced scheduling
-- **Microservices Architecture**: DDD implementation, API gateways, distributed tracing
-- **Observability**: Prometheus metrics, Grafana dashboards, ELK stack
+- **Kubernetes Mastery**: Custom Operators, Service Mesh implementation, and advanced scheduling.
+- **Microservices Architecture**: DDD (Domain-Driven Design), API gateways, and distributed tracing.
+- **Observability**: Prometheus metrics, Grafana dashboards, and ELK stack aggregation.
 
 ---
 
@@ -184,11 +183,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [2025火山引擎FORCE大会·冬 三大核心技术：AI原生时代的底层逻辑与实践路径](https://blog.hehouhui.cn/archives/volcengine-force-2512)
-- [Caffeine AsyncCache：响应式架构下（WebFlux, R2DBC, ReactiveRedis）的缓存实践](https://blog.hehouhui.cn/archives/caffeine-asynccache-reactive-architecture-webflux-r2dbc-redis-practice)
-- [事件驱动：WebFlux、R2DBC，Lettuce Reactive Redis与虚拟线程下的高性能Web项目构建指南](https://blog.hehouhui.cn/archives/webflux-r2dbc-lettuce-virtual-threads-best-practices)
-- [&quot;关于我&quot;页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
-- [高维向量检索 Faiss vector database：向量数据库的基石与核心角色 —— 解析 PQ/IVF/HNSW 算法原理、CPU/GPU 底层实现、量化误差模型及动态索引机制，详解其在 RAG / 推荐系统中的价值与工业应用](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
-- [Spring Boot项目启动优化](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
+- [Caffeine AsyncCache: Reactive Architecture Practices with WebFlux, R2DBC, and Redis](https://blog.hehouhui.cn/archives/caffeine-asynccache-reactive-architecture-webflux-r2dbc-redis-practice)
+- [Event-Driven Guide: Building High-Performance Web Projects with WebFlux, R2DBC, and Virtual Threads](https://blog.hehouhui.cn/archives/webflux-r2dbc-lettuce-virtual-threads-best-practices)
+- ["About Me" Page Creation Journey: 100 Git Commits & PWA Implementation](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
+- [High-Dimensional Vector Search: Faiss Vector Database Core Roles, Algorithms (PQ/IVF/HNSW), and Industrial Application](https://blog.hehouhui.cn/archives/faiss-vector-database-high-dimensional-vector-search-academic-foundation-core-role-pq-ivf-hnsw)
+- [Spring Boot Project Startup Optimization](https://blog.hehouhui.cn/archives/21b0c7d0-9e17-80a2-968f-fa70ba8d0b26)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center" style="margin-top: 25px;">
@@ -229,7 +228,7 @@
 ## 💭 Reflection
 
 <blockquote style="max-width: 700px; margin: 40px auto; border-left: 4px solid #9B59B6; padding-left: 25px; font-style: italic; color: #95A5A6; font-weight: 300; font-size: 1.05em; line-height: 1.7;">
-  "The most profound architectures emerge from the quiet intersection of deep technical mastery and intuitive human understanding."
+  "Driven by idealism, grounded in decisive action—bridging the gap between human intuition and machine intelligence."
 </blockquote>
 
 ---
