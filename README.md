@@ -182,12 +182,12 @@
 ## 📝 Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
+- [给大模型穿上“拘束衣”：从物理缺陷到 Agentic OS 的工程化实践](https://blog.hehouhui.cn/archives/llm-agent-engineering-challenges-and-architecture-solutions)
 - [Harness + LLM Wiki + Spec 智能体驱动工作流（工程规范手册 + Onboarding 测试版）](https://blog.hehouhui.cn/archives/java-harness-agent-intent-driven-development-practice)
 - [优化Netlify,Vercel国内访问速度：基于 enhanced-FaaS-in-China 的多路加速](https://blog.hehouhui.cn/archives/netlify-vercel-enhanced-faas-in-china)
 - [2025火山引擎FORCE大会·冬 三大核心技术：AI原生时代的底层逻辑与实践路径](https://blog.hehouhui.cn/archives/volcengine-force-2512)
 - [Caffeine AsyncCache：响应式架构下（WebFlux, R2DBC, ReactiveRedis）的缓存实践](https://blog.hehouhui.cn/archives/caffeine-asynccache-reactive-architecture-webflux-r2dbc-redis-practice)
 - [事件驱动：WebFlux、R2DBC，Lettuce Reactive Redis与虚拟线程下的高性能Web项目构建指南](https://blog.hehouhui.cn/archives/webflux-r2dbc-lettuce-virtual-threads-best-practices)
-- [&quot;关于我&quot;页面创作之旅](https://blog.hehouhui.cn/archives/about-page-creation-100-git-commits-pwa-journey)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center" style="margin-top: 25px;">
